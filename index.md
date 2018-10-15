@@ -16,5 +16,5 @@ No.28 Xianning West Road, Xi'an 710049, P.R.China.
 
 Email: ryan_zzr@outlook.com
 
-Welcome to my [GitHub profile](https://github.com/1989Ryan)
+Welcome to my [GitHub profile](https://github.com/1989Ryan).
 
