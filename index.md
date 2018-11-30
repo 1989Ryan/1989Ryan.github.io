@@ -3,13 +3,13 @@
 This is the personal GitHub page of Zirui (Ryan) Zhao.
 <img src="https://github.com/1989Ryan/README_pictures/blob/master/images/webwxgetmsgim.jpg?raw=true" height="50%" width="50%"/>
 
-  **Zirui Zhao**
-  Department of Machine Intelligence
-  The School of Electronic and Information Engineering
-  Xi'an Jiaotong University
-  No.28 Xianning West Road, Xi'an 710049, P.R.China.
-  Email: ryan_zzr@outlook.com
-  Welcome to my [GitHub profile](https://github.com/1989Ryan).
+  **Zirui Zhao**<br/>
+  Department of Machine Intelligence<br/>
+  The School of Electronic and Information Engineering<br/>
+  Xi'an Jiaotong University<br/>
+  No.28 Xianning West Road, Xi'an 710049, P.R.China.<br/>
+  Email: ryan_zzr@outlook.com<br/>
+  Welcome to my [GitHub profile](https://github.com/1989Ryan).<br/>
 
 ### Research Details
 1.	**Machine learning & Computer Vision Open Experiment Program IAIR XJTU (Sept. 2017 – April. 2018)**
