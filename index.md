@@ -27,14 +27,22 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.
 3.	**Multi-agent Collaborative Navigation in robots, Exploration and Structured Semantic Information Establishment IAIR XJTU (April. 2018 – now)**
 
   Moreover, I joined in the lab of IAIR and I’m currently working on the research of multi-agent collaborative navigation, which aims to actualize the goods sorting task using DJ UAV and autonomous vehicle. We try to in-complement the autonomous driving of small robotic vehicle and the cooperation of UAV and robotic vehicle. The UAV is responsible for the path planning of the vehicle and helps the automatic follow-up of the vehicle with computer vision technology. In this project, my job is mainly on the inference acceleration of neural network and the movement control of the UAV and robotic vehicle using ROS and CV. I’m currently studying the self-navigating of ground vehicle with a given map. We try to utilized the pictures captured by UAV to build a map automatically and send it to the ground vehicle robots for self-navigation. And these work includes the technology of path planning, obstacle avoidance, transformation of coordinates and communication between multi-agents.
+  
 There are some implementations of SLAM and detection algorithm.
+
 <center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/952E7C77-474F-45BE-8EA2-E8107784FFDE.gif?raw=true" height="75%" width="75%"/></center>
+
 <p align="center">Lazer Slam</p>
+
 <center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/EC2217F1-36EB-47D0-9983-EF5C144259C7.gif?raw=true" height="75%" width="75%"/></center>
+
 <p align="center">Visual Slam</p>
+
 <center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/FFA7C7B2-1F9D-4D95-9326-3B73DBFF845C.gif?raw=true" height="75%" width="75%"/></center>
+
 <p align="center">Detection and tracking in UAV</p>
 
 4.	**2018 Global College Technical Summer Training Camp JD AI Research (August. 2018)**
 As for the theory of machine learning, I studied the theory of deep neural network not only about the utility of CNN in computer vision, but also about some aspects of pure theory of machine learning. In summer of 2018, I got an opportunity of participating in 2018 Global College Technical Summer Training Camp. And there are only 40 students selected, and I was one of only 2 undergraduates among them. The summer camp is designed to help campers fully understand the frontier issues of AI industry, so as to identify and discover potential excellent future researchers in AI field. In this experience I acquired the theory of adversarial attack of deep neural network which enhanced my knowledge of convolutional neural network. I learned the elementary and advanced methods of adversarial attack such as FGSM, ZOO and One-Pixel attack method as well as the vulnerability of neural network. This experience enhanced my theoretical foundation of convolutional neural network and computer vision. Moreover, I know about the frontier issue of AI industry which cannot be easily acquired in the classroom or lab in university. 
+
 <img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/2535A18E-0B3C-4B96-AEF8-5A104E2BDDA2.jpeg" height="50%" width="50%"/><img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/1EED6A49-88B3-4D18-BC59-C4144C1CA7D4.jpeg" height="50%" width="50%"/>
