@@ -29,7 +29,7 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.
   Moreover, I joined in the lab of IAIR and I’m currently working on the research of multi-agent collaborative navigation, which aims to actualize the goods sorting task using DJ UAV and autonomous vehicle. 
   
 
-<center><img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/46701763-26CE-477C-82B4-D00BF45289B0.jpeg" height="70%" width="70%"/>      <img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/08743A5F-3D03-4511-870B-D1B1A6E6DAE4.png" height="70%" width="70%"/></center>
+<center><img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/46701763-26CE-477C-82B4-D00BF45289B0.jpeg"/>  <img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/08743A5F-3D03-4511-870B-D1B1A6E6DAE4.png"/></center>
 
   
   We try to in-complement the autonomous driving of small robotic vehicle and the cooperation of UAV and robotic vehicle. The UAV is responsible for the path planning of the vehicle and helps the automatic follow-up of the vehicle with computer vision technology. In this project, my job is mainly on the inference acceleration of neural network and the movement control of the UAV and robotic vehicle using ROS and CV. I’m currently studying the self-navigating of ground vehicle with a given map. We try to utilized the pictures captured by UAV to build a map automatically and send it to the ground vehicle robots for self-navigation. And these work includes the technology of path planning, obstacle avoidance, transformation of coordinates and communication between multi-agents.
