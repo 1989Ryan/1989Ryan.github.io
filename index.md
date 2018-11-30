@@ -31,14 +31,8 @@ Computer vision is unprecedentedly popular, and I believe that computer vision w
 3.	**Multi-agent Collaborative Navigation in robots, Exploration and Structured Semantic Information Establishment | IAIR XJTU (April. 2018 – now)**
 
 Moreover, I joined in the lab of IAIR and I’m currently working on the research of multi-agent collaborative navigation, which aims to actualize the goods sorting task using DJ UAV and autonomous vehicle. We try to in-complement the autonomous driving of small robotic vehicle and the cooperation of UAV and robotic vehicle. The UAV is responsible for the path planning of the vehicle and helps the automatic follow-up of the vehicle with computer vision technology. In this project, my job is mainly on the inference acceleration of neural network and the movement control of the UAV and robotic vehicle using ROS and CV. I’m currently studying the self-navigating of ground vehicle with a given map. We try to utilized the pictures captured by UAV to build a map automatically and send it to the ground vehicle robots for self-navigation. And these work includes the technology of path planning, obstacle avoidance, transformation of coordinates and communication between multi-agents.
-<center>
-  <img src="https://github.com/1989Ryan/README_pictures/blob/master/images/952E7C77-474F-45BE-8EA2-E8107784FFDE.gif" height="50%" width="50%"/>
-Lazer Slam
-</center>
-<center>
-  <img src="https://github.com/1989Ryan/README_pictures/blob/master/images/EC2217F1-36EB-47D0-9983-EF5C144259C7.gif" height="50%" width="50%"/>
-  Visual Slam
-</center>
+<div align=center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/952E7C77-474F-45BE-8EA2-E8107784FFDE.gif" height="50%" width="50%"/></div>
+<div align=center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/EC2217F1-36EB-47D0-9983-EF5C144259C7.gif" height="50%" width="50%"/></div>
 
 
 4.	**2018 Global College Technical Summer Training Camp | JD AI Research (August. 2018)**
