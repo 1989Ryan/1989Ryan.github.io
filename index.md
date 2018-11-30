@@ -1,7 +1,7 @@
 ## Welcome to Ryan's Pages!
 
 This is the personal GitHub page of Zirui (Ryan) Zhao.
-<img src="https://github.com/1989Ryan/README_pictures/blob/master/images/webwxgetmsgim.jpg?raw=true" height="50%" width="50%" />
+<img src="https://github.com/1989Ryan/README_pictures/blob/master/images/webwxgetmsgim.jpg?raw=true" height="50%" width="50%"/>
 
 **Zirui Zhao**
 
