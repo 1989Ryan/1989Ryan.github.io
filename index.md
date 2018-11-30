@@ -1,6 +1,6 @@
 ## Welcome to Ryan's Pages!
 
-This is the personal GitHub page of Zirui (Ryan) Zhao.<div align=right><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/webwxgetmsgim.jpg?raw=true" height="50%" width="50%" alt="Me" /></div>
+This is the personal GitHub page of Zirui (Ryan) Zhao.<img src="https://github.com/1989Ryan/README_pictures/blob/master/images/webwxgetmsgim.jpg?raw=true" height="50%" width="50%" alt="Me" />
 
 ### Personal Information
 
@@ -26,15 +26,15 @@ Computer vision is currently changing the world with marvelous accuracy of image
 2.  **Tele-Robotic and Deep Learning Project | NUS SoC Summer Workshop 2018 (July. 2018 - August. 2018)**
 
 Computer vision is unprecedentedly popular, and I believe that computer vision will be widely applied in autonomous robot for specific task such as rescuing after disaster or exploring unknown area. When I was participating in the NUS SoC Summer Workshop 2018, I chose the project called “Tele-Robotics and Deep learning” which was the first autonomous robot and robotic vision project that I had participated in. Then I learned the basic knowledge of the embedded system and control theory of robotic movement, and how to use computer vision algorithm in robotics. We used the Raspberry Pi and Arduino Mega 2560 to build a simple blind-guide robotic vehicle with ultrasonic sensors, IMU and Pi camera. We used the cloud service of Azure to accelerate the inference of Inception-v3 neural network which is responsible for the computer vision task to recognize the obstacles. Obstacle avoidance is utilized in this project which is enforced by using different sensors to detect obstacles and control the movement. In this project, I was the leader of our team, helping to negotiate with other teammates and responsible for designing the overall frame of the robotics, including the embedded system and computer vision algorithm. And I was the monitor of the lab who was responsible for the students affairs and daily management of lab. 
-<div align=center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/F9D12475-4DE4-4665-9C9F-5CD77829ECC3.gif" height="75%" width="75%" alt="Robotic" /></div>
-<div align=center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/webwxgetmsgimg.jpg" height="75%" width="75%" alt="Team" /></div>
+<img src="https://github.com/1989Ryan/README_pictures/blob/master/images/F9D12475-4DE4-4665-9C9F-5CD77829ECC3.gif" height="75%" width="75%" alt="Robotic" />
+<img src="https://github.com/1989Ryan/README_pictures/blob/master/images/webwxgetmsgimg.jpg" height="75%" width="75%" alt="Team" />
 
 3.	**Multi-agent Collaborative Navigation in robots, Exploration and Structured Semantic Information Establishment | IAIR XJTU (April. 2018 – now)**
 
 Moreover, I joined in the lab of IAIR and I’m currently working on the research of multi-agent collaborative navigation, which aims to actualize the goods sorting task using DJ UAV and autonomous vehicle. We try to in-complement the autonomous driving of small robotic vehicle and the cooperation of UAV and robotic vehicle. The UAV is responsible for the path planning of the vehicle and helps the automatic follow-up of the vehicle with computer vision technology. In this project, my job is mainly on the inference acceleration of neural network and the movement control of the UAV and robotic vehicle using ROS and CV. I’m currently studying the self-navigating of ground vehicle with a given map. We try to utilized the pictures captured by UAV to build a map automatically and send it to the ground vehicle robots for self-navigation. And these work includes the technology of path planning, obstacle avoidance, transformation of coordinates and communication between multi-agents.
-<div align=center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/952E7C77-474F-45BE-8EA2-E8107784FFDE.gif" height="75%" width="75%" alt="Lazer Slam" /></div>
-<div align=center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/EC2217F1-36EB-47D0-9983-EF5C144259C7.gif" height="75%" width="75%" alt="Visual Slam" /></div>
-<div align=center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/FFA7C7B2-1F9D-4D95-9326-3B73DBFF845C.gif" height="75%" width="75%" alt="Detection in UAV" /></div>
+<img src="https://github.com/1989Ryan/README_pictures/blob/master/images/952E7C77-474F-45BE-8EA2-E8107784FFDE.gif" height="75%" width="75%" alt="Lazer Slam" />
+<img src="https://github.com/1989Ryan/README_pictures/blob/master/images/EC2217F1-36EB-47D0-9983-EF5C144259C7.gif" height="75%" width="75%" alt="Visual Slam" />
+<img src="https://github.com/1989Ryan/README_pictures/blob/master/images/FFA7C7B2-1F9D-4D95-9326-3B73DBFF845C.gif" height="75%" width="75%" alt="Detection in UAV" />
 
 4.	**2018 Global College Technical Summer Training Camp | JD AI Research (August. 2018)**
 
