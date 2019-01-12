@@ -1,7 +1,7 @@
 ## Welcome to Ryan's Pages!
 
 This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
-<img src="https://github.com/1989Ryan/README_pictures/blob/master/images/webwxgetmsgim.jpg?raw=true" height="50%" width="50%"/>
+<img src="https://github.com/1989Ryan/README_pictures/blob/master/images/webwxgetmsgim.jpg?raw=true" height="50%" width="30%"/>
 
   **Zirui Zhao**<br/>
   Department of Machine Intelligence<br/>
@@ -11,6 +11,9 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
   Email: ryan_zzr@outlook.com<br/>
   Welcome to my [GitHub profile](https://github.com/1989Ryan).<br/>
   Download my [CV](https://github.com/1989Ryan/README_pictures/raw/master/CV_Zirui_Zhao.pdf).<br/>
+  
+### Research interests
+  I am currently interested in the Robotics. In particular, I am very interested in the Robotic Cognition, Multi-Robot System and Motion Planning. <br/>
 
 ### Research Details
 **1.	Machine learning & Computer Vision Open Experiment Program IAIR XJTU (Sept. 2017 – April. 2018)**<br/>
