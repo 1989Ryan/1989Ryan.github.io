@@ -31,7 +31,7 @@ There are some implementations of SLAM and detection algorithm.
 
 <p align="center">Laser Slam</p>
 
-<center><img src="https://github.com/1989Ryan/README_pictures/blob/master/DEAED931-70EC-49B2-AE54-DF86FB96BD1E.gif?raw=true" height="75%" width="75%"/></center>
+<center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/BC6A2B53-49A9-4109-95A2-94734419F915.jpeg?raw=true" height="75%" width="75%"/></center>
 
 <p align="center">Visual Slam</p>
 
