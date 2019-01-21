@@ -41,7 +41,10 @@ There are some implementations of SLAM and detection algorithm.
 
   Our baseline model is try to implement the laser-scan as the main sensor for cognition and navigation. The UAV will flying in the air and establish the global cost map for UGV. The global cost map is built by image segmentation. The UGV will go through a small labyrinth. We try to utilize the TEB algorithm for global path-planning and it shows great robustness during our experiment.
   
-  You can watch our demo video.
+<center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/2019-01-21%20172348.png?raw=true" /></center>
+<p align="center">Project Design</p>
+  
+  You can watch our demo video about multi-agent system going through a labyrinth.
   
   <center><iframe width="560" height="315" src="https://www.youtube.com/embed/wSB4hyW9rWc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
   
