@@ -17,10 +17,14 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
 
 ### Current Applied Research Project
 **Multi-agent Collaborative Navigation in robots, Exploration and Structured Semantic Information Establishment IAIR XJTU (April. 2018 – now)**<br/>
-  I joined in the lab of Institute of Artificial Intelligence and Robotics (IAIR) and I’m currently working on the research of multi-agent collaborative navigation, which aims to actualize the coordinate navigation and exploration task using DJ UAV and autonomous vehicle. 
+  I joined in the lab of Institute of Artificial Intelligence and Robotics (IAIR) and I’m currently working on the research of multi-agent collaborative navigation, which aims to actualize the coordinate navigation and exploration task using DJ UAV and autonomous vehicle. This project is a long period project and a group work since robotic system development is a complicated work. And I am the group leader under the faculty supervisor Dr. Pengju Ren.
   
+  Our robot consists of UAV and UGV.
 
-<center><img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/46701763-26CE-477C-82B4-D00BF45289B0.jpeg" height="75%" width="75%"/>  <img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/08743A5F-3D03-4511-870B-D1B1A6E6DAE4.png" height="75%" width="75%"/></center>
+<center><img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/46701763-26CE-477C-82B4-D00BF45289B0.jpeg" height="75%" width="75%"/>  
+ <p align="center">DJI UAV</p>
+ <img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/08743A5F-3D03-4511-870B-D1B1A6E6DAE4.png" height="75%" width="75%"/></center>
+<p align="center">MIT Racebot</p>
 
   
   We try to in-complement the autonomous driving of small robotic vehicle and the cooperation of UAV and robotic vehicle. The UAV is responsible for the path planning of the vehicle and helps the automatic follow-up of the vehicle with computer vision technology. In this project, my job is mainly on the inference acceleration of neural network and the movement control of the UAV and robotic vehicle using ROS and CV. I’m currently studying the self-navigating of ground vehicle with a given map. We try to utilized the pictures captured by UAV to build a map automatically and send it to the ground vehicle robots for self-navigation. And these work includes the technology of path planning, obstacle avoidance, transformation of coordinates and communication between multi-agents.
@@ -31,7 +35,7 @@ There are some implementations of SLAM and detection algorithm.
 
 <p align="center">Laser Slam</p>
 
-<center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/BC6A2B53-49A9-4109-95A2-94734419F915.jpeg?raw=true"/></center>
+<center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/FB4F695E-3721-4285-ACFA-177B0819FFA2.gif?raw=true"/></center>
 
 <p align="center">Visual Slam</p>
 
