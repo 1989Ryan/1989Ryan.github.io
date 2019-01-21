@@ -43,7 +43,7 @@ There are some implementations of SLAM and detection algorithm.
   
   You can watch our demo video.
   
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/wSB4hyW9rWc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/wSB4hyW9rWc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
   
   However, the stability and power consuming is not desirable for on-board system. Therefore, we try to move on to the visual information for cognition, navigation and path-planning. We try to implement Monocular ORB-SLAM, which is a robust, state-of-the-art and open-source visual SLAM algorithm, for re-localization and navigation. We also try to use high-resolution image for road segmentation and cost map building. We have proved that the ORB-SLAM is suitable for urban area re-localization and mapping. And our problem is cooperation and planning through visual information, including dynamic regional path-planning and multi-agent communication.
 
