@@ -24,7 +24,7 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
 <center><img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/46701763-26CE-477C-82B4-D00BF45289B0.jpeg" height="75%" width="75%"/>  
  <p align="center">DJI UAV</p>
  <img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/08743A5F-3D03-4511-870B-D1B1A6E6DAE4.png" height="75%" width="75%"/></center>
-<p align="center">MIT Racebot</p>
+<p align="center">YOUIBOT</p>
 <img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/B660E119-F653-4B3D-97EF-8D490B7C1EC0.jpeg" height="75%" width="75%"/></center>
 <p align="center">MIT Racebot</p>
 
