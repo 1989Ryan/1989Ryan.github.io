@@ -10,7 +10,7 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
   No.28 Xianning West Road, Xi'an 710049, P.R.China.<br/>
   Email: ryan_zzr@outlook.com<br/>
   Welcome to my [GitHub profile](https://github.com/1989Ryan).<br/>
-  Download my [CV](https://raw.githubusercontent.com/1989Ryan/README_pictures/master/CV_Zirui_Zhao.pdf).<br/>
+  Download my [CV](https://github.com/1989Ryan/README_pictures/raw/master/images/Zirui_Zhao_CV.pdf).<br/>
 
 you will visit my Research Interests, Current and Previous Research Projects.
   
