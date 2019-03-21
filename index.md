@@ -3,19 +3,19 @@
 This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
 <img src="https://github.com/1989Ryan/README_pictures/blob/master/images/webwxgetmsgim.jpg?raw=true" height="50%" width="50%"/>
 
-  **Zirui Zhao**<br/>
-  Department of Machine Intelligence<br/>
+  **Zirui Zhao**<br/> 
+  Bachelor of Engineering in Automation (EECS) , will graduate in 2020 <br/>
+  Department of Automation Science and Engineering <br/>
   The School of Electronic and Information Engineering<br/>
   Xi'an Jiaotong University<br/>
   No.28 Xianning West Road, Xi'an 710049, P.R.China.<br/>
   Email: ryan_zzr@outlook.com<br/>
   Welcome to my [GitHub profile](https://github.com/1989Ryan).<br/>
   Download my [CV](https://github.com/1989Ryan/README_pictures/raw/master/images/Zirui_Zhao_CV.pdf).<br/>
-
-you will visit my Research Interests, Current and Previous Research Projects.
   
 ### Research interests
-  I am currently interested in the Robotics. In particular, I am very interested in the Robotic Cognition, Multi-Robot System and Motion Planning, and try to conbine robotics with machine learning. <br/>
+  I am currently interested in the Robotics. In particular, I am very interested in the Robotic Cognition, Multi-Robot System, Robotic Reasoning, and try to combine robotics with machine learning. <br/>
+  I am currently focusing on the semantic SLAM and how to let robot navigate like human with semantic infomation. <br/>
 
 ### Current Applied Research Project
 **Multi-agent Collaborative Navigation in robots, Exploration and Structured Semantic Information Establishment IAIR XJTU (April. 2018 – now)**<br/>
