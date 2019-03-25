@@ -29,7 +29,7 @@ My research experiences are mainly about machine learning, computer vision and r
 
 ### Motivation
 
-I was inspired by homan perception system when I was thinking about the robot navigation system. How can we human-beings manage to navigate with visual imformation. Human will never build a precise 3D map to navigate from one place to the other. The only sensor we use is our eyes. Visual information contains all the necessary information we need. So how to let a robot grap the various information including the distances and semantic meaning, and use them for self-navigation, is the premary problem that I want to solve. 
+I was inspired by homan perception system when I was thinking about the robot navigation system. How can we human-beings manage to navigate with visual imformation. Human will never build a precise 3D map to navigate from one place to the other. The only sensor we use is our eyes. Visual information contains all the necessary information we need. So how to let a robot know the various information including the distances and semantic meaning, and use them for self-navigation, is the premary problem that I want to solve. 
 
 Also, the UAVs and UGVs, in some aspects, are complementary to each other, since the UAVs can catch the global situation and UGVs are more convenient for human-robot interaction. Their combination will greatly enhance their ability. So I am also thinking about their relationship and cooperation. 
 
