@@ -8,6 +8,7 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
 
   **Zirui Zhao**<br/> 
   Bachelor of Engineering candidate in Automation (EECS) , will graduate in 2020 <br/>
+  Honor Engineering Program, Qian Xuesen Class, top 120 in XJTU <br/>
   Department of Automation Science and Engineering <br/>
   The School of Electronic and Information Engineering<br/>
   Xi'an Jiaotong University<br/>
