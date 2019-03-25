@@ -36,7 +36,7 @@ Also, the UAVs and UGVs, in some aspects, are complementary to each other, since
   
  <center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/2019-01-21%20172348.png?raw=true" /></center>
 
-  I joined in the lab of Institute of Artificial Intelligence and Robotics (IAIR) and I’m currently working on the research of multi-agent collaborative navigation, which aims to actualize the coordinate navigation and exploration task using DJI UAV and autonomous vehicle. Meanwhile, this project is trying to use the semantic information for visual navigation, human-robot interaction and data fusion to build a joint semantic-metric inference framework. This project is a long period project and a group work since robotic system development is a complicated work. And I am the group leader under the faculty superviso, Dr. Pengju Ren.
+  I joined in the lab of Institute of Artificial Intelligence and Robotics (IAIR) and I’m currently working on the research of multi-agent collaborative navigation, which aims to actualize the coordinate navigation and exploration task using DJI UAV and autonomous vehicle. Meanwhile, this project is trying to use the semantic information for visual navigation, human-robot interaction and data fusion to build a joint semantic-metric inference framework. This project is a long period project and a group work since robotic system development is a complicated work. And I am the group leader under the faculty supervisor, Dr. Pengju Ren.
   
   Our robot consists of UAV and UGV.
   
