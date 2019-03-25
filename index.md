@@ -1,7 +1,6 @@
 ## Welcome to Ryan's Pages!
 
 This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
-<img src="https://github.com/1989Ryan/README_pictures/blob/master/images/webwxgetmsgim.jpg?raw=true" height="50%" width="50%"/>
 
   **Zirui Zhao**<br/> 
   Bachelor of Engineering in Automation (EECS) , will graduate in 2020 <br/>
