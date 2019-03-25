@@ -28,7 +28,7 @@ I was inspired by homan perception system when I was thinking about the robot na
 
 Also, the UAVs and UGVs, in some aspects, are complementary to each other, since the UAVs can catch the global situation and UGVs are more convenient for human-robot interaction. Their combination will greatly enhance their ability.
 
-## Current Applied Research Project 
+### Current Applied Research Project 
 **[Multi-agent Collaborative Navigation in robots, Exploration and Structured Semantic Information Establishment](./r1.html)
  IAIR XJTU (April. 2018 – now)**<br/>
   
@@ -38,18 +38,18 @@ Also, the UAVs and UGVs, in some aspects, are complementary to each other, since
   
   Our robot consists of UAV and UGV.
   
-## Previous Research & Contest Experiences
+### Previous Research & Contest Experiences
 
-<center><img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/730C6A64-4992-454F-ADCA-82B720EC3237.jpeg"/></center>
+<center><img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/730C6A64-4992-454F-ADCA-82B720EC3237.jpeg" height="70%" width="70%"/></center>
 
-[Machine learning & Computer Vision Open Experiment Program](./r2.html) IAIR XJTU (Sept. 2017 – April. 2018)<br/>
+**[Machine learning & Computer Vision Open Experiment Program](./r2.html) IAIR XJTU (Sept. 2017 – April. 2018)**<br/>
 
-<center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/webwxgetmsgimg.jpg?raw=true" height="75%" width="75%" /></center>
+<center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/webwxgetmsgimg.jpg?raw=true" height="70%" width="70%" /></center>
 
-[Tele-Robotic and Deep Learning Project NUS SoC Summer Workshop 2018](./r3.html) (July. 2018 - August. 2018)<br/>
+**[Tele-Robotic and Deep Learning Project NUS SoC Summer Workshop 2018](./r3.html) (July. 2018 - August. 2018)**<br/>
 
 <center><img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/2535A18E-0B3C-4B96-AEF8-5A104E2BDDA2.jpeg" height="70%" width="70%"/></center>
  
-[2018 Global College Technical Summer Training Camp](./r4.html) JD AI Research (August. 2018)<br/>
+**[2018 Global College Technical Summer Training Camp](./r4.html) JD AI Research (August. 2018)**<br/>
 
 
