@@ -17,6 +17,8 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
   I am interested in the Robotics and its combination with machine learning. In particular, I am very interested in the Robotic Cognition, Multi-Robot System, Robotic Reasoning. <br/>
   I am currently focusing on the semantic SLAM and how to let robot navigate like human with semantic infomation. <br/>
 
+## [Research](./Research.html).
+
 ## Current Applied Research Project
 **Multi-agent Collaborative Navigation in robots, Exploration and Structured Semantic Information Establishment IAIR XJTU (April. 2018 – now)**<br/>
 
