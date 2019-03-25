@@ -1,4 +1,4 @@
-## Welcome to Ryan's Pages!
+# Welcome to Ryan's Pages!
 
 This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
 
@@ -12,13 +12,16 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
   Welcome to my [GitHub profile](https://github.com/1989Ryan).<br/>
   Download my [CV](https://github.com/1989Ryan/README_pictures/raw/master/images/Zirui_Zhao_CV.pdf).<br/>
   
-### Research interests
+## Research interests
+
   I am currently interested in the Robotics. In particular, I am very interested in the Robotic Cognition, Multi-Robot System, Robotic Reasoning, and try to combine robotics with machine learning. <br/>
+  
   I am currently focusing on the semantic SLAM and how to let robot navigate like human with semantic infomation. <br/>
 
-### Current Applied Research Project
+## Current Applied Research Project
 **Multi-agent Collaborative Navigation in robots, Exploration and Structured Semantic Information Establishment IAIR XJTU (April. 2018 – now)**<br/>
-  I joined in the lab of Institute of Artificial Intelligence and Robotics (IAIR) and I’m currently working on the research of multi-agent collaborative navigation, which aims to actualize the coordinate navigation and exploration task using DJ UAV and autonomous vehicle. This project is a long period project and a group work since robotic system development is a complicated work. And I am the group leader under the faculty supervisor Dr. Pengju Ren.
+
+  I joined in the lab of Institute of Artificial Intelligence and Robotics (IAIR) and I’m currently working on the research of multi-agent collaborative navigation, which aims to actualize the coordinate navigation and exploration task using DJI UAV and autonomous vehicle. Meanwhile, this project is trying to use the semantic information for visual navigation, human-robot interaction and data fusion to build a joint semantic-metric inference framework. This project is a long period project and a group work since robotic system development is a complicated work. And I am the group leader under the faculty superviso, Dr. Pengju Ren.
   
   Our robot consists of UAV and UGV.
 
@@ -31,6 +34,13 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
 <img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/B660E119-F653-4B3D-97EF-8D490B7C1EC0.jpeg" height="75%" width="75%"/></center>
 <p align="center">YOUIBOT</p>
 
+### Motivation
+
+Our motivation is inspired by homan perception system. How can we human-beings manage to navigate with visual imformation. Human will never build a precise 3D map to navigate from one place to the other. The only sensor we use is our eyes. Visual information contains all the necessary information we need. So how to let a robot grap the various information including the distances and semantic meaning, and use them for self-navigation, is the premary problem that I want to solve. 
+
+Also, the UAVs and UGVs, in some aspects, are complementary to each other, since the UAVs can catch the global situation and UGVs are more convenient for human-robot interaction. Their combination will greatly enhance their ability.
+
+### Completed Tasks, Implementations and Methodologies
   
   We try to in-complement the autonomous driving of small robotic vehicle and the cooperation of UAV and robotic vehicle. The UAV is responsible for the path planning of the vehicle and helps the automatic follow-up of the vehicle with computer vision technology. In this project, my job is mainly on the inference acceleration of neural network and the movement control of the UAV and robotic vehicle using ROS and CV. I’m currently studying the self-navigating of ground vehicle with a given map. We try to utilized the pictures captured by UAV to build a map automatically and send it to the ground vehicle robots for self-navigation. And these work includes the technology of path planning, obstacle avoidance, transformation of coordinates and communication between multi-agents.
   
@@ -52,10 +62,14 @@ There are some implementations of SLAM and detection algorithm.
   
 <center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/2019-01-21%20172348.png?raw=true" /></center>
 <p align="center">Project Design</p>
+
+### Demo
   
   You can watch our demo video about multi-agent system going through a labyrinth.
   
   <center><iframe width="560" height="315" src="https://www.youtube.com/embed/wSB4hyW9rWc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+  
+### Current Problems
   
   However, the stability and power consuming is not desirable for on-board system. Therefore, we try to move on to the visual information for cognition, navigation and path-planning. We try to implement Monocular ORB-SLAM, which is a robust, state-of-the-art and open-source visual SLAM algorithm, for re-localization and navigation. We also try to use high-resolution image for road segmentation and cost map building. We have proved that the ORB-SLAM is suitable for urban area re-localization and mapping. And our problem is cooperation and planning through visual information, including dynamic regional path-planning and multi-agent communication.
 
