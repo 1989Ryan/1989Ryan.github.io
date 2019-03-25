@@ -1,9 +1,9 @@
-# Welcome to Ryan's Pages!
+# Welcome to Ryan's Homepage!
 
 This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
 
   **Zirui Zhao**<br/> 
-  Bachelor of Engineering in Automation (EECS) , will graduate in 2020 <br/>
+  Bachelor of Engineering candidate in Automation (EECS) , will graduate in 2020 <br/>
   Department of Automation Science and Engineering <br/>
   The School of Electronic and Information Engineering<br/>
   Xi'an Jiaotong University<br/>
@@ -12,13 +12,13 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
   Welcome to my [GitHub profile](https://github.com/1989Ryan).<br/>
   Download my [CV](https://github.com/1989Ryan/README_pictures/raw/master/images/Zirui_Zhao_CV.pdf).<br/>
   
-## Research interests
+## Research Interests
 
   I am interested in the Robotics and its combination with machine learning. In particular, I am very interested in the Robotic Cognition, Multi-Robot System, Robotic Reasoning. <br/>
   I am currently focusing on the semantic SLAM and how to let robot navigate like human with semantic infomation. <br/>
 
 
-## Research
+## Research Experiences
 
 My research experiences are mainly about machine learning, computer vision and robotics. My previous experiences in Deep Learning and Computer Vision greatly enhanced my research in robotics. 
 
@@ -26,7 +26,7 @@ My research experiences are mainly about machine learning, computer vision and r
 
 I was inspired by homan perception system when I was thinking about the robot navigation system. How can we human-beings manage to navigate with visual imformation. Human will never build a precise 3D map to navigate from one place to the other. The only sensor we use is our eyes. Visual information contains all the necessary information we need. So how to let a robot grap the various information including the distances and semantic meaning, and use them for self-navigation, is the premary problem that I want to solve. 
 
-Also, the UAVs and UGVs, in some aspects, are complementary to each other, since the UAVs can catch the global situation and UGVs are more convenient for human-robot interaction. Their combination will greatly enhance their ability.
+Also, the UAVs and UGVs, in some aspects, are complementary to each other, since the UAVs can catch the global situation and UGVs are more convenient for human-robot interaction. Their combination will greatly enhance their ability. So I am also thinking about their relationship and cooperation. 
 
 ### Current Applied Research Project 
 **[Multi-agent Collaborative Navigation in robots, Exploration and Structured Semantic Information Establishment](./r1.html)
