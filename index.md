@@ -31,6 +31,8 @@ Also, the UAVs and UGVs, in some aspects, are complementary to each other, since
 ### Current Applied Research Project 
 **[Multi-agent Collaborative Navigation in robots, Exploration and Structured Semantic Information Establishment](./r1.html)
  IAIR XJTU (April. 2018 – now)**<br/>
+ 
+ [Details](./r1.html)
   
  <center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/2019-01-21%20172348.png?raw=true" /></center>
 
@@ -43,6 +45,7 @@ Also, the UAVs and UGVs, in some aspects, are complementary to each other, since
 <center><img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/730C6A64-4992-454F-ADCA-82B720EC3237.jpeg" height="70%" width="70%"/></center>
 
 **[Machine learning & Computer Vision Open Experiment Program](./r2.html) IAIR XJTU (Sept. 2017 – April. 2018)**<br/>
+
 
 <center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/webwxgetmsgimg.jpg?raw=true" height="70%" width="70%" /></center>
 
