@@ -60,4 +60,8 @@ Also, the UAVs and UGVs, in some aspects, are complementary to each other, since
  
 **[2018 Global College Technical Summer Training Camp](./r4.html) JD AI Research (August. 2018)**<br/>
 
-
+## Opensource Projects and Homeworks
+**[Digital Image and Video Processing Coursework](https://github.com/1989Ryan/Digital-Image-Processing-Project)(Maintainer)**<br/>
+**[SE-ResNet Implementation](https://github.com/1989Ryan/SE-resnet-152)(Leader, Maintainer and Contributer)**<br/>
+**[Digital Signal Processing Course Teamwork](https://github.com/AlbertYoung0112/DigitalSpeechRecognition)(Maintainer and Contributer)**<br/>
+**[Semantic SLAM](https://github.com/1989Ryan/Semantic_SLAM)(On-Going Project, Maintainer)**<br/>
