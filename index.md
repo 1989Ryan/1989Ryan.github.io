@@ -25,7 +25,7 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
 
 ## Research Experiences
 
-<center><img src="https://github.com/1989Ryan/Semantic_SLAM/blob/master/Third_Part/Screenshot%20from%202019-03-29%2013-20-20.png?raw=true" height="70%" width="70%"/></center>
+<center><img src="https://github.com/1989Ryan/Semantic_SLAM/blob/master/Third_Part/Screenshot%20from%202019-03-29%2013-20-20.png?raw=true"/></center>
 I have several experiences in robotic SLAM, Machine Learning and Computer Vision. I am currently focusing on Semantic SLAM.<br/>
 
 ### Current On-Going Research Project 
