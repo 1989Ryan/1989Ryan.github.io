@@ -19,6 +19,8 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
   
 ## Research Orientation
 
+<center><img src="https://pic3.zhimg.com/80/v2-6c558fcdbbec40377890e7243e5ac217_r.jpg"/></center>
+
   I am interested in the Robotics and its combination with machine learning. In particular, I am very interested in the Robotic Cognition, Multi-Robot System, Robotic Planning and Reasoning. <br/>
   I am currently focusing on the semantic SLAM and how to let robot navigate like human with semantic infomation. I was inspired by homan perception system when I was thinking about the robot navigation system. Human will never build a precise 3D map to navigate from one place to the other. The only sensor we use is our eyes. Visual information contains all the necessary information we need. So how to let a robot know the various information including the distances and semantic meaning, and use them for self-navigation, is the premary problem that I want to solve. <br/>
   I am also thinking how to combine the cognition systems with reasoning (planning) systems to enhance the overall ability of robots. Cognition systems are mainly black-box models (deep learning methods) and reasoning systems are mainly white-box models (mathematical provable methods). The reasoning model will be provable with semantic information since our human are making decisions with semantic information and rigorous logic. And the state-of-the-art cognition systems are mainly black-box models since the features that acquired by deep learning methods are not fully understood, either as our human cognition systems. So I am trying to find their combination and I think it will be semantic SLAM.<br/>
@@ -36,9 +38,7 @@ I have several experiences in robotic SLAM, Machine Learning and Computer Vision
 ### Previous Research & Contest Experiences
 
 **[Machine learning & Computer Vision Open Experiment Program](./r2.html) IAIR XJTU (Sept. 2017 – April. 2018)**<br/>
-
 **[Tele-Robotic and Deep Learning Project NUS SoC Summer Workshop 2018](./r3.html) (July. 2018 - August. 2018)**<br/>
- 
 **[2018 Global College Technical Summer Training Camp](./r4.html) JD AI Research (August. 2018)**<br/>
 
 ## Opensource Projects and Homeworks
