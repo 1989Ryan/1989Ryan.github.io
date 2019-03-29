@@ -25,25 +25,20 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
 
 ## Research Experiences
 
-### Current On-Going Research Project 
+<center><img src="https://github.com/1989Ryan/Semantic_SLAM/blob/master/Third_Part/Screenshot%20from%202019-03-29%2013-20-20.png?raw=true" height="70%" width="70%"/></center>
 
- <center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/2019-01-21%20172348.png?raw=true" /></center>
+### Current On-Going Research Project 
  
 **[Multi-agent Collaborative Navigation in robots, Exploration and Structured Semantic Information Establishment](./r1.html)
  IAIR XJTU (April. 2018 – now)**<br/>
+ 
+ I have several experiences in robotic SLAM, Machine Learning and Computer Vision. I am currently focusing on Semantic SLAM.
 
 ### Previous Research & Contest Experiences
 
-<center><img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/730C6A64-4992-454F-ADCA-82B720EC3237.jpeg" height="70%" width="70%"/></center>
-
 **[Machine learning & Computer Vision Open Experiment Program](./r2.html) IAIR XJTU (Sept. 2017 – April. 2018)**<br/>
 
-
-<center><img src="https://github.com/1989Ryan/README_pictures/blob/master/images/webwxgetmsgimg.jpg?raw=true" height="70%" width="70%" /></center>
-
 **[Tele-Robotic and Deep Learning Project NUS SoC Summer Workshop 2018](./r3.html) (July. 2018 - August. 2018)**<br/>
-
-<center><img src="https://raw.githubusercontent.com/1989Ryan/README_pictures/master/images/2535A18E-0B3C-4B96-AEF8-5A104E2BDDA2.jpeg" height="70%" width="70%"/></center>
  
 **[2018 Global College Technical Summer Training Camp](./r4.html) JD AI Research (August. 2018)**<br/>
 
