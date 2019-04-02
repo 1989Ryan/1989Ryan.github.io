@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: research
 ---
 
 # 数字图像处理实验作业三　图像的直方图变换 
