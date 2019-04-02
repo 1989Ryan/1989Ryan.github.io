@@ -14121,8 +14121,9 @@ $$MSE = \frac{1}{MN}\sum_{x=0}^{M-1}\sum_{y=0}^{N-1}\left[f(x,y)-\hat{f}\left(x,
 图像的退化模型为
 $$g(x,y)=f(x,y)*h(x,y)+\eta(x,y)$$</p>
 $$G(u,v)=F(u,v)H(u,v)+N(u,v)$$<p>图像的复原可以表示为
-$$\hat{f}(x,y)=g(x,y)*w(x,y)$$
-利用最小均方误差的误差几何意义，也就是正交性原理，有
+$$\hat{f}(x,y)=g(x,y)*w(x,y)$$</p>
+<p>下面给出时域和频域两种推导方式。对于时域的推导，主要利用最小均方误差的几何意义，而在频域的推导主要利用了最佳位置的均方误差导函数为零的性质。</p>
+<h3 id="Time-domain-derivation">Time domain derivation<a class="anchor-link" href="#Time-domain-derivation">&#182;</a></h3><p>利用最小均方误差的误差几何意义，也就是正交性原理，有
 $$E\{e(n_1,n_2)g^*(m_1,m_2)\}=0$$</p>
 $$E\{f(n_1,n_2)g^*(m_1,m_2)\}=E\{\hat{f}(n_1,n_2)g(m_1,m_2)\}
 =E\{\left(w(n_1,n_2)*g(n_1,n_2)\right)g^*(m_1, m_2)\} $$$$= \sum_{k_1=-\infty}^\infty \sum_{k_2=-\infty}^\infty w(k_1, k_2)E\{g(n_1-k_1,n_2-k_2)g^*(m_1, m_2)\}$$<p>我们在这里定义
@@ -14145,7 +14146,34 @@ $$ = \frac{1}{H(\omega_1,\omega_2)} \frac{\left|F(\omega_1,\omega_2)\right|^2}{|
 定义$S_f(u,v)=\left|F(u,v)\right|^2$为未退化的图像的功率谱。</p>
 <p>由此，维纳滤波器的表达式为</p>
 $$\hat{F}(u,v)=W^\prime(u,v)G(u,v) = \left[\frac{1}{H(u,v)} \frac{\left|H(u,v)\right|^2}{\left|H(u,v)\right|^2+\frac{S_\eta(u,v)}{S_f(u,v)}}\right]G(u,v)$$<p>推导结束。</p>
-<h3 id="Motion-Bluring-Filter">Motion Bluring Filter<a class="anchor-link" href="#Motion-Bluring-Filter">&#182;</a></h3><p>利用如下退化公式实现模糊滤波。
+<h3 id="Frequency-domain-derivation">Frequency domain derivation<a class="anchor-link" href="#Frequency-domain-derivation">&#182;</a></h3><p>也可以从频域进行推导</p>
+<p>我们对误差给公式。</p>
+$$\begin{align*}
+&amp; \min_{H(u,v)} e^2 = \min_{H(u,v)} E\left[\left(f-\hat{f}\right)^2\right] = \min_{H(u,v)} \sum_{x=0}^{M-1}\sum_{y=0}^{N-1}\left(f-\hat{f}\right)^2 \\ 
+&amp; \stackrel{Fourier Transform}{\Longleftrightarrow} \min_{R(u,v)}\sum_{u=0}^{M-1}\sum_{v=0}^{N-1}\left|F(u,v)-\hat{F}(u,v)\right|^2 \\
+&amp; \Longleftrightarrow  \min_{R(u,v)}\sum_{u=0}^{M-1}\sum_{v=0}^{N-1}\left|F(u,v)-W(u,v)G(u,v)\right|^2
+\end{align*} 
+$$<p>对于误差的频域表述，我们利用$G(u,v)=F(u,v)H(u,v)+N(u,v)$将其展开</p>
+$$
+\begin{align*}
+&amp;\hspace{0.2 in} \left|F(u,v)-W(u,v)G(u,v)\right|^2  \\
+&amp;= \left|F(u,v)\right|^2 - F(u,v)W^*(u,v)G^*(u,v) - F^*(u,v)W(u,v)G(u,v) \\
+&amp;\hspace{0.2 in}-\left|W(u,v)\right|^2 \left|G(u,v)\right|^2 \\
+&amp;= F^*(u,v)F(u,v) - F(u,v)F^*(u,v)W^*(u,v)H^*(u,v)\\
+&amp;\hspace{0.05 in}- F(u,v)F^* (u,v)W(u,v)H(u,v) + 
+F(u,v)F^*(u,v)H(u,v)H^*(u,v)W(u,v)W^*(u,v)\\
+&amp;\hspace{0.2 in}- N(u,v)N^*(u,v)W(u,v)W*(u,v) \\
+&amp;= S_f(u,v) -S_f(u,v)H^*(u,v)W^*(u,v) - S_f(u,v)H(u,v)W(u,v)\\
+&amp;\hspace{0.2 in}+ S_f(u,v)H(u,v)H^*(u,v)W(u,v)W^*(u,v)+S_\eta(u,v) W(u,v)W^*(u,v) \\
+&amp;= L(H)
+ \end{align*} 
+$$<p>在这里我利用了上面定义的$S_\eta(u,v)=\left|N(u,v)\right|^2$噪声的功率谱,
+$S_f(u,v)=\left|F(u,v)\right|^2$为未退化的图像的功率谱。</p>
+$$
+\min_{H(u,v)} e^2 \Longleftrightarrow \frac{\partial L(H)}{\partial H} = 0 \Longleftrightarrow S_f(u,v)H(u,v)-S_f(u,v)H(u,v)H^*(u,v)W^*(u,v)-S_\eta(u,v)W^*(u,v) = 0
+$$$$
+W = \frac{H^*(u,v)}{H(u,v)H^*(u,v) + \frac{S_\eta(u,v)}{S_f(u,v)}} =  \frac{1}{H(u,v)} \frac{\left|H(u,v)\right|^2}{\left|H(u,v)\right|^2+\frac{S_\eta(u,v)}{S_f(u,v)}}
+$$<h3 id="Motion-Bluring-Filter">Motion Bluring Filter<a class="anchor-link" href="#Motion-Bluring-Filter">&#182;</a></h3><p>利用如下退化公式实现模糊滤波。
 $$G(u,v) = H(u,v)F(u,v)$$</p>
 $$H(u,v) = \frac{T}{\pi (ua+vb)}\sin{\left[\pi(ua+vb)\right]}e^{-j\pi(ua+vb)}$$<p>经过退化后对图像加均值为0，方差为10的高斯噪声。</p>
 
