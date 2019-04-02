@@ -45,7 +45,7 @@ I have several experiences in robotic SLAM, Machine Learning and Computer Vision
 
 "Talk is cheap, show me your code."
 
-**[Digital Image and Video Processing Coursework](https://github.com/1989Ryan/Digital-Image-Processing-Project)(Maintainer)**<br/>
+**[Digital Image and Video Processing Coursework](https://1989ryan.github.io/DIPhw/diphw.html)(Maintainer)**<br/>
 **[SE-ResNet Implementation](https://github.com/1989Ryan/SE-resnet-152)(Leader, Maintainer and Contributor)**<br/>
 **[Digital Signal Processing Course Teamwork](https://github.com/AlbertYoung0112/DigitalSpeechRecognition)(Maintainer and Contributor)**<br/>
 **[Semantic SLAM](https://github.com/1989Ryan/Semantic_SLAM)(On-Going Project, Maintainer)**<br/>
