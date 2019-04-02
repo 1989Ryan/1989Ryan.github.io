@@ -1,7 +1,7 @@
+---
+layout: default
+---
 
----
-layout: research 
----
 
 
 # <p align="center"> 数字图像处理实验作业三　图像的直方图变换 </p>
