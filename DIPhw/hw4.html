@@ -1,0 +1,75 @@
+<h1 id="paligncenterp"><p align="center"> 数字图像处理实验作业四　空域滤波器变换 </p></h1>
+
+<p align="center"> 赵子瑞 </p>
+
+<p align="center"> 自动化钱61  2160405068 </p>
+
+<p align="center"> 2019年3月15日 </p>
+
+<h3 id="paligncenterp-1"><p align="center"> 摘要 </p></h3>
+
+<p>　　本文通过空域滤波器变换的基本方法，实现了图像的高斯滤波，图像的中值滤波，图像的高通滤波处理，实现了非锐化掩蔽，sobel边缘提取，laplace边界探测，利用opencv实现了canny算法和图像的直方图分割。</p>
+
+<h2 id="paligncenterp-2"><p align="center"> 项目任务 </p></h2>
+
+<p>本次实验的任务分为以下几点：</p>
+
+<ul>
+<li>1 空域低通滤波器，分别用高斯滤波器和中值滤波器去平滑测试图像test1和2，模板大小分别为3x3，5x5，7x7；</li>
+
+<li>2 利用固定方差，sigma = 1.5产生高斯滤波器；</li>
+
+<li>3 利用高通滤波器测试图像test3,4：包括：unsharp masking, Sobel edge detector, and Laplace edge detection; Canny algorithm.</li>
+</ul>
+
+<h2 id="paligncenterp-3"><p align="center"> 滤波实现原理 </p></h2>
+
+<h3 id="">高斯滤波器</h3>
+
+<p>高斯滤波的卷积核即为高斯函数的矩阵，如公式所示。</p>
+
+<p align="center"> <img src="https://github.com/1989Ryan/hw4/blob/master/images/CodeCogsEqn.gif?raw=true" />　</p>
+
+<p>在实验中，通过构建二维高斯滤波核，并进行二维卷积，可以实现高斯滤波的功能，起到平滑的效果。</p>
+
+<h3 id="-1">中值滤波器</h3>
+
+<p>中值滤波为一种非线性滤波，采用了模板邻域像素的值的中值赋给模板中心的像素点的方法，在python-opencv中有相应的函数<code>cv2.medianBlur(img, index)</code>可以调用。</p>
+
+<h3 id="laplace">Laplace算子</h3>
+
+<p>Laplace算子采用了近似梯度的算法，来提取图像边缘。我们利用一下卷积核，对图像进行二维卷积，即可完成图像的变换。</p>
+
+<p align="center"> <img src="https://github.com/1989Ryan/hw4/blob/master/images/laplace.gif?raw=true" />　</p>
+
+<h3 id="sobel">Sobel算子</h3>
+
+<p>Sobel算子则利用另外一种计算梯度的方式，通过两个核，分别对图像进行卷积操作，将得到的向量取模后相加，得到图像的梯度值。这里也可以近似采用绝对值的方式来简化运算。</p>
+
+<p align="center"> <img src="https://github.com/1989Ryan/hw4/blob/master/images/Sobelx.gif?raw=true" />　</p>
+
+<p align="center"> <img src="https://github.com/1989Ryan/hw4/blob/master/images/Sobely.gif?raw=true" />　</p>
+
+<h3 id="unsharpmark">Unsharp Mark</h3>
+
+<p>Unsharp Mask是利用原图像减去高斯滤波后的图像，得到边缘的细节，乘上一定的权重后加到原图中，得到锐化图像。</p>
+
+<h3 id="canny">Canny</h3>
+
+<p>Canny算法在python-opencv中可以利用函数<code>cv2.Canny</code>进行计算，得到Canny算法计算后提取的边缘。</p>
+
+<h2 id="paligncenterp-4"><p align="center">　空域低通滤波器变换 </p></h2>
+
+<p>高斯滤波后处理结果如下图所示。</p>
+
+<p align="center"> <img src="https://raw.githubusercontent.com/1989Ryan/hw4/master/images/result1test1.png" />　</p>
+
+<p align="center"> <img src="https://raw.githubusercontent.com/1989Ryan/hw4/master/images/result1test2.png" />　</p>
+
+<p>中值滤波后处理结果如下图所示。</p>
+
+<p align="center"> <img src="https://raw.githubusercontent.com/1989Ryan/hw4/master/images/result2test1.png" />　</p>
+
+<p align="center"> <img src="https://raw.githubusercontent.com/1989Ryan/hw4/master/images/result2test2.png" />　</p>
+
+<h2 id="paligncenterp-5"><p align="center"> 高通滤波器测试 </p></h2>
