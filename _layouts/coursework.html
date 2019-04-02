@@ -1,17 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--网页标题左侧显示-->
-    <link rel="icon" href="logo.ico" type="image/x-icon">
-    <!--收藏夹显示图标-->
-    <link rel="shortcut icon" href="logo.ico" type="image/x-icon">
-    <style type="text/css">
+<html>
+	<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+		<style type="text/css">
 		
 			body {
 				margin:15px;
@@ -82,54 +74,70 @@
 				text-decoration: none;
 			}
 		
-        </style>
-         <script type="text/javascript">
-            /* =============================
-            This script generates sample text for the body content. 
-            You can remove this script and any reference to it. 
-             ============================= */
-            var bodyText=["The smaller your reality, the more convinced you are that you know everything.", "If the facts don't fit the theory, change the facts.", "The past has no power over the present moment.", "This, too, will pass.", "</p><p>You will not be punished for your anger, you will be punished by your anger.", "Peace comes from within. Do not seek it without.", "<h3>Heading</h3><p>The most important moment of your life is now. The most important person in your life is the one you are with now, and the most important activity in your life is the one you are involved with now."]
-            function generateText(sentenceCount){
-                for (var i=0; i<sentenceCount; i++)
-                document.write(bodyText[Math.floor(Math.random()*7)]+" ")
-            }
-        </script>	
-  </head>
-  
+		</style>
+		
+		<script type="text/javascript">
+			/* =============================
+			This script generates sample text for the body content. 
+			You can remove this script and any reference to it. 
+			 ============================= */
+			var bodyText=["The smaller your reality, the more convinced you are that you know everything.", "If the facts don't fit the theory, change the facts.", "The past has no power over the present moment.", "This, too, will pass.", "</p><p>You will not be punished for your anger, you will be punished by your anger.", "Peace comes from within. Do not seek it without.", "<h3>Heading</h3><p>The most important moment of your life is now. The most important person in your life is the one you are with now, and the most important activity in your life is the one you are involved with now."]
+			function generateText(sentenceCount){
+				for (var i=0; i<sentenceCount; i++)
+				document.write(bodyText[Math.floor(Math.random()*7)]+" ")
+			}
+		</script>	
+	
+	</head>
+	
+	<body>		
 
-  <body>
-        <div id="wrapper">
-                <main>
-                    <div id="content">
-                        <div>
-                                {{ content }}
-                        </div>
-                    </div>
-                </main>
-                
-                <nav id="nav">
-                    <div class="innertube">
-                        <h3>HomePage</h3>
-                        <ul>
-                            <li><a href="https://1989Ryan.github.io/">Welcome</a></li>
-                        </ul>
-                        <h3>Projects</h3>
-                        <ul>
-                            <li><a href="https://1989Ryan.github.io/r1.html">Multi-robots & Semantic SLAM</a></li>
-                            <li><a href="https://1989Ryan.github.io/r2.html">Machine Learning Primer</a></li>
-                            <li><a href="https://1989Ryan.github.io/r3.html">Tele-Robotic & Deep Learning</a></li>
-                            <li><a href="https://1989Ryan.github.io/r4.html">Neural Network Adversial Attack</a></li>
-                        </ul>
-                        <h3>Open Source</h3>
-                        <ul>
-                            <li><a href="https://1989Ryan.github.io/SENET/senet.html">SE-ResNet 152</a></li>
-                            <li><a href="https://github.com/AlbertYoung0112/DigitalSpeechRecognition">DSP Speech Recognition</a></li>
-                            <li><a href="https://github.com/1989Ryan/Semantic_SLAM">Semantic SLAM(On-Going)</a></li>
-                        </ul>
-                    </div>
-                </nav>
-            
-            </div>
-    
-    </body>
+		<header id="header">
+			<div class="innertube">
+				<h1>Contest</h1>
+			</div>
+		</header>
+		
+		<div id="wrapper">
+		
+			<main>
+				<div id="content">
+					<div class="innertube">
+                            {{ content }}
+					</div>
+				</div>
+			</main>
+			
+			<nav id="nav">
+				<div class="innertube">
+					<h3>HomePage</h3>
+					<ul>
+						<li><a href="https://1989Ryan.github.io/">Welcome</a></li>
+					</ul>
+					<h3>Projects</h3>
+					<ul>
+						<li><a href="https://1989Ryan.github.io/r1.html">Multi-robots & Semantic SLAM</a></li>
+						<li><a href="https://1989Ryan.github.io/r2.html">Machine Learning Primer</a></li>
+						<li><a href="https://1989Ryan.github.io/r3.html">Tele-Robotic & Deep Learning</a></li>
+						<li><a href="https://1989Ryan.github.io/r4.html">Neural Network Adversial Attack</a></li>
+					</ul>
+					<h3>Open Source</h3>
+					<ul>
+						<li><a href="https://github.com/1989Ryan/Digital-Image-Processing-Project">Image Processing Toolbox</a></li>
+						<li><a href="https://github.com/AlbertYoung0112/DigitalSpeechRecognition">DSP Speech Recognition</a></li>
+						<li><a href="https://github.com/1989Ryan/Semantic_SLAM">Semantic SLAM(On-Going)</a></li>
+					</ul>
+				</div>
+			</nav>
+		
+		</div>
+		
+		<footer id="footer">
+			<div class="innertube">
+				<p><small>Copyright 2019 <a href="https://github.com/1989Ryan/">Ryan Zhao</a> | Powered by <a
+                href="https://github.com/">GitHub</a><small></p>
+			</div>
+		</footer>
+	
+	</body>
 </html>
