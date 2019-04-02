@@ -1,33 +1,160 @@
+ <!DOCTYPE html>
 <html>
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Zirui Zhao, DIP homework</title>
-</head>
-<body>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>hw4</title>
+		<style type="text/css">
+		
+			body {
+				margin:15px;
+				padding:0;
+				font-family: Sans-Serif;
+				line-height: 1.5em;
+			}
+			
+			#header {
+				background: #ccc;
+				height: 100px;
+			}
+			
+			#header h1 {
+				margin: 0;
+				padding-top: 15px;
+			}
+			
+			main {
+				padding-bottom: 10010px;
+				margin-bottom: -10000px;
+				float: left;
+				width: 75%;
+			}
+			
+			#nav {
+				padding-bottom: 10010px;
+				margin-bottom: -10000px;
+				float: left;
+				width: 230px;
+				margin-left: -100%;
+				background: #eee;
+			}
+			
+			#footer {
+				clear: left;
+				width: 100%;
+				background: #ccc;
+				text-align: center;
+				padding: 4px 0;
+			}
+	
+			#wrapper {
+				overflow: hidden;
+			}
+						
+			#content {
+				margin-left: 230px; /* Same as 'nav' width */
+			}
+			
+			.innertube {
+				margin: 15px; /* Padding for content */
+				margin-top: 0;
+			}
+		
+			p {
+				color: #555;
+			}
+	
+			nav ul {
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			
+			nav ul a {
+				color: darkgreen;
+				text-decoration: none;
+			}
+		
+		</style>
+		
+		<script type="text/javascript">
+			/* =============================
+			This script generates sample text for the body content. 
+			You can remove this script and any reference to it. 
+			 ============================= */
+			var bodyText=["The smaller your reality, the more convinced you are that you know everything.", "If the facts don't fit the theory, change the facts.", "The past has no power over the present moment.", "This, too, will pass.", "</p><p>You will not be punished for your anger, you will be punished by your anger.", "Peace comes from within. Do not seek it without.", "<h3>Heading</h3><p>The most important moment of your life is now. The most important person in your life is the one you are with now, and the most important activity in your life is the one you are involved with now."]
+			function generateText(sentenceCount){
+				for (var i=0; i<sentenceCount; i++)
+				document.write(bodyText[Math.floor(Math.random()*7)]+" ")
+			}
+		</script>	
+	
+	</head>
+	
+	<body>		
 
-<div id="container">
+		<header id="header">
+			<div class="innertube">
+				<h1>DIP Coursework</h1>
+			</div>
+		</header>
+		
+		<div id="wrapper">
+		
+			<main>
+				<div id="content">
+					<div class="innertube">
+						<h2 id="digitalimageprocessinghomework">Digital Image Processing Homework</h2>
 
-  <main id="center" class="column">
-    <article>
+						    <p>This is the page for digital image processing coursework.</p>
+						    <p>Zirui Zhao, Xi'an Jiaotong University</p>
 
-    <h2 id="digitalimageprocessinghomework">Digital Image Processing Homework</h2>
+						    <p><a href="https://github.com/1989Ryan/Digital-Image-Processing-Project">Digital image processing toolbox</a></p>
 
-    <p>This is the page for digital image processing coursework.</p>
-    <p>Zirui Zhao, Xi'an Jiaotong University</p>
+						    <p><a href="https://github.com/1989Ryan/hw1/">homework 1</a> </br>
+						    <a href="https://github.com/1989Ryan/tuxiangpeizhun/">homework 2</a> </br>
+						    <a href="https://github.com/1989Ryan/hw3/">homework 3</a> </br>
+						    <a href="https://github.com/1989Ryan/hw4/">homework 4</a> </br>
+						    <a href="https://1989Ryan.github.io/DIPhw/hw4.html">homework 4 report</a> </br>
+						    <a href="https://github.com/1989Ryan/hw5/">homework 5</a> </br>
+						    <a href="https://1989Ryan.github.io/DIPhw/hw5.html">homework 5 report</a> </br>
+						    <a href="https://github.com/1989Ryan/hw6">homework 6</a> </br>
+						    <a href="https://1989Ryan.github.io/DIPhw/hw6.html">homework 6 report</a></p>
 
-    <p><a href="https://github.com/1989Ryan/Digital-Image-Processing-Project">Digital image processing toolbox</a></p>
-
-    <p><a href="https://github.com/1989Ryan/hw1/">homework 1</a> </br>
-    <a href="https://github.com/1989Ryan/tuxiangpeizhun/">homework 2</a> </br>
-    <a href="https://github.com/1989Ryan/hw3/">homework 3</a> </br>
-    <a href="https://github.com/1989Ryan/hw4/">homework 4</a> </br>
-    <a href="https://1989Ryan.github.io/DIPhw/hw4.html">homework 4 report</a> </br>
-    <a href="https://github.com/1989Ryan/hw5/">homework 5</a> </br>
-    <a href="https://1989Ryan.github.io/DIPhw/hw5.html">homework 5 report</a> </br>
-    <a href="https://github.com/1989Ryan/hw6">homework 6</a> </br>
-    <a href="https://1989Ryan.github.io/DIPhw/hw6.html">homework 6 report</a></p>
-
-    <p><a href="https://1989Ryan.github.io">Back to homepage</a></p>
-    </article>
-</body>
+						    <p><a href="https://1989Ryan.github.io">Back to homepage</a></p>
+					</div>
+				</div>
+			</main>
+			
+			<nav id="nav">
+				<div class="innertube">
+					<h3>HomePage</h3>
+					<ul>
+						<li><a href="https://1989Ryan.github.io/">Welcome</a></li>
+					</ul>
+					<h3>Projects</h3>
+					<ul>
+						<li><a href="https://1989Ryan.github.io/r1.html">Multi-robots & Semantic SLAM</a></li>
+						<li><a href="https://1989Ryan.github.io/r2.html">Machine Learning Primer</a></li>
+						<li><a href="https://1989Ryan.github.io/r3.html">Tele-Robotic & Deep Learning</a></li>
+						<li><a href="https://1989Ryan.github.io/r4.html">Neural Network Adversial Attack</a></li>
+					</ul>
+					<h3>Repo</h3>
+					<ul>
+						<li><a href="https://github.com/1989Ryan/SE-resnet-152">SE-ResNet 152</a></li>
+						<li><a href="https://github.com/AlbertYoung0112/DigitalSpeechRecognition">DSP Speech Recognition</a></li>
+						<li><a href="https://github.com/1989Ryan/Semantic_SLAM">Semantic SLAM(On-Going)</a></li>
+					</ul>
+				</div>
+			</nav>
+		
+		</div>
+		
+		<footer id="footer">
+			<div class="innertube">
+				<p>Copyright 2019 <a href="https://github.com/1989Ryan/">Ryan Zhao</a> | Powered by <a
+                href="https://github.com/">GitHub</a> </p>
+			</div>
+		</footer>
+	
+	</body>
 </html>
