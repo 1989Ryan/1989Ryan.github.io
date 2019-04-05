@@ -3,7 +3,7 @@ layout: research
 ---
 
 
-## Digital Image Processing Coursework
+# Digital Image Processing Coursework
 This is the page for XJTU undergraduate course *digital image and video processing*. 
 
 Zirui Zhao, Xi'an Jiaotong University
