@@ -36,7 +36,7 @@ Semantic SLAM Map, yellow represents buildings, green represents vegetation, red
 
 ### Current On-Going Research Project 
  
-**[Multi-agent Collaborative Navigation in robots, Exploration and Structured Semantic Information Establishment](./r1.html)
+**[Multi-agent Collaborative Navigation in robots, Exploration and Semantic SLAM](./r1.html)
  IAIR XJTU (April. 2018 – now)**<br/>
 
 ### Previous Research & Contest Experiences
