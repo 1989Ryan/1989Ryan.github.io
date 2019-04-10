@@ -27,8 +27,12 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
 
 ## Research Experiences
 
-<center><img src="https://github.com/1989Ryan/1989Ryan.github.io/blob/master/map.png?raw=true"/></center>
 I have several experiences in robotic SLAM, Machine Learning and Computer Vision. I am currently focusing on Semantic SLAM.<br/>
+
+<center><img src="https://github.com/1989Ryan/1989Ryan.github.io/blob/master/map.png?raw=true"/></center>
+
+Semantic SLAM Map, yellow represents buildings, green represents vegetation, red represents roads and blue represents vehicles.<br/>
+
 
 ### Current On-Going Research Project 
  
