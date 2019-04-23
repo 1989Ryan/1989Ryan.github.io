@@ -31,7 +31,7 @@ I have several experiences in robotic SLAM, Machine Learning and Computer Vision
 
 <center><img src="https://github.com/1989Ryan/1989Ryan.github.io/blob/master/map.png?raw=true"/></center>
 
-<center>Semantic SLAM Map, yellow represents buildings, green represents vegetation, red represents roads and blue represents vehicles.</center>
+<center>Semantic SLAM Map, yellow represents buildings, green represents vegetation, red represents roads and blue represents vehicles.</center><br/>
 
 
 ### Current On-Going Research Project 
