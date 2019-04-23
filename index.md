@@ -36,7 +36,7 @@ I have several experiences in robotic SLAM, Machine Learning and Computer Vision
 
 ### Current On-Going Research Project 
  
-**[Multi-robot Collaborative Navigation and Semantic SLAM](./r1.html)**
+**[Multi-robot Collaborative Navigation and Semantic SLAM](./r1.html)
  IAIR XJTU (April. 2018 – now)**<br/>
 
 ### Previous Research & Contest Experiences
