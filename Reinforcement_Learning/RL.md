@@ -10,4 +10,4 @@ You are welcome for [issueing](https://github.com/1989Ryan/RL_note/issues).
 
 ## Chapters
 
-[Chapter3 Markov Decision Processes](./MDPs.html)
+[Markov Decision Processes](./MDPs.html)
