@@ -48,7 +48,7 @@ I have several experiences in robotic SLAM, Machine Learning and Computer Vision
 
 ## Learning
 
-**[Reinforcement Learning](./Reinforcement_Learning/RL.html)**
+**[Reinforcement Learning](https://www.ryanzhao.org/Reinforcement_Learning/RL.html)**
 
 ## Opensource Projects and Homeworks
 
