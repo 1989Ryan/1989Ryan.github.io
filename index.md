@@ -46,6 +46,10 @@ I have several experiences in robotic SLAM, Machine Learning and Computer Vision
 **[Tele-Robotic and Deep Learning Project NUS SoC Summer Workshop 2018](./r3.html) (July. 2018 - August. 2018)**<br/>
 **[2018 Global College Technical Summer Training Camp](./r4.html) JD AI Research (August. 2018)**<br/>
 
+## Learning
+
+**[Reinforcement Learing Notes](./Reinforcement_Learning)**
+
 ## Opensource Projects and Homeworks
 
 "Talk is cheap, show me your code."
