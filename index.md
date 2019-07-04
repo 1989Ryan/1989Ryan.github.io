@@ -38,14 +38,14 @@ I have several experiences in robotic SLAM, Machine Learning and Computer Vision
 ### Current On-Going Research Project 
  
 **[Multi-robot Collaborative Navigation and Semantic SLAM](./r1.html)
- IAIR XJTU (April. 2018 – Now)**<br/>
-**Risk-Sensitivity Inverse Reinforcement Learning. Safe AI Lab, CMU (July. 2019 - Now)**
+ IAIR@XJTU (April. 2018 – Now)**<br/>
+**Risk-Sensitivity Inverse Reinforcement Learning. [Safe AI Lab](http://www.andrew.cmu.edu/user/dingzhao/index.html)@CMU (July. 2019 - Now)**
 
 ### Previous Research & Contest Experiences
 
-**[Machine learning & Computer Vision Open Experiment Program](./r2.html) IAIR XJTU (Sept. 2017 – April. 2018)**<br/>
-**[Tele-Robotic and Deep Learning Project NUS SoC Summer Workshop 2018](./r3.html) (July. 2018 - August. 2018)**<br/>
-**[2018 Global College Technical Summer Training Camp](./r4.html) JD AI Research (August. 2018)**<br/>
+**[Machine learning & Computer Vision Open Experiment Program](./r2.html) IAIR@XJTU (Sept. 2017 – April. 2018)**<br/>
+**[Tele-Robotic and Deep Learning Project](./r3.html) Summer Workshop2018, School of Computing@NUS (July. 2018 - August. 2018)**<br/>
+**[2018 Global College Technical Summer Training Camp](./r4.html) AI Research@JD (August. 2018)**<br/>
 
 ## Learning
 
