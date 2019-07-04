@@ -38,7 +38,8 @@ I have several experiences in robotic SLAM, Machine Learning and Computer Vision
 ### Current On-Going Research Project 
  
 **[Multi-robot Collaborative Navigation and Semantic SLAM](./r1.html)
- IAIR XJTU (April. 2018 – now)**<br/>
+ IAIR XJTU (April. 2018 – Now)**<br/>
+**Risk-Sensitivity Inverse Reinforcement Learning. Safe AI Lab, CMU (July. 2019 - Now)**
 
 ### Previous Research & Contest Experiences
 
