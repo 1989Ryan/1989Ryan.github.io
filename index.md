@@ -59,3 +59,4 @@ I have several experiences in robotic SLAM, Machine Learning and Computer Vision
 **[Digital Image and Video Processing Coursework](https://1989ryan.github.io/DIPhw/diphw.html)(Maintainer)**<br/>
 **[SE-ResNet Implementation](https://1989Ryan.github.io/SENET/senet.html)(Leader, Maintainer and Contributor)**<br/>
 **[Digital Signal Processing Course Teamwork](https://github.com/AlbertYoung0112/DigitalSpeechRecognition)(Maintainer and Contributor)**<br/>
+**[Fuzzy PID Controler](https://github.com/1989Ryan/Fuzzy-Control-Project)(Maintainer)**<br/>
