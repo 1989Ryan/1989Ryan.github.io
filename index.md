@@ -7,13 +7,11 @@ layout: default
 This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
 
   **Zirui Zhao**<br/> 
-  Bachelor of Engineering candidate in Automation (EECS) , will graduate in 2020 <br/>
+  Bachelor of Engineering candidate in Automation (EECS), Xi'an Jiaotong University (XJTU), will graduate in 2020 <br/>
   Honor Engineering Program, Qian Xuesen Class, top 120 in XJTU <br/>
-  Department of Automation Science and Technology <br/>
-  The School of Electronic and Information Engineering<br/>
-  Xi'an Jiaotong University<br/>
-  No.28 Xianning West Road, Xi'an 710049, P.R.China.<br/>
-  Email: ryan_zzr@outlook.com<br/>
+  Research Intern of Institute of Artificial Intelligence and Robotics@XJTU <br/>
+  Summer Intern of The Robotics Institute@CMU <br/>
+  Email: [ryan_zzr@outlook.com](mailto:ryan_zzr@outlook.com), [ziruizhao1@gmail.com](mailto:ziruizhao1@gmail.com), [ziruizha@andrew.cmu.edu](mailto:ziruizha@andrew.cmu.edu)<br/>
   Welcome to my [GitHub profile](https://github.com/1989Ryan).<br/>
   Download my [CV](https://github.com/1989Ryan/README_pictures/raw/master/images/CV_Zirui_Zhao.pdf).<br/>
   
