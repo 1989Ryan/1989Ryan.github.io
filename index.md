@@ -19,10 +19,12 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
 
 <center><img src="https://github.com/1989Ryan/1989Ryan.github.io/blob/master/hi.jpeg?raw=true"/></center>
 
-  I am interested in the Robotics and its combination with machine learning. In particular, I am very interested in the Robotic Perception, Multi-Robot System, Robotic Planning and Reasoning. <br/>
-  I am currently focusing on the semantic SLAM and how to let robot navigate like human with semantic infomation. I was inspired by homan perception system when I was thinking about the robot navigation system. Human will never build a precise 3D map to navigate from one place to the other. The only sensor we use is our eyes. Visual information contains all the necessary information we need. So how to let a robot know the various information including the distances and semantic meaning, and use them for self-navigation, is the premary problem that I want to solve. <br/>
-  I am also thinking how to combine the perception systems with reasoning (planning) systems to enhance the overall ability of robots. Perception systems are trying to solve two problems: where are we and how much can we know about the environment. The reasoning model will use the information obtained by perception system to predict the future situations. In this case, I am doing research in risk-sensitivity inverse reinforcement learning to deal with the risk situation detection and avoidance, which 
-predicts the risk situation and take precautions by reasoning the current data. <br/>
+  I am interested in the Robotics and its combination with machine learning. In particular, I am very interested in the Robotic Perception, Multi-Robot System, Robotic Planning and Reasoning.
+  
+  I am currently focusing on the semantic SLAM and how to let robot navigate like human with semantic infomation. I was inspired by homan perception system when I was thinking about the robot navigation system. Human will never build a precise 3D map to navigate from one place to the other. The only sensor we use is our eyes. Visual information contains all the necessary information we need. So how to let a robot know the various information including the distances and semantic meaning, and use them for self-navigation, is the premary problem that I want to solve. 
+  
+  I am also thinking how to combine the perception systems with reasoning (planning) systems to enhance the overall ability of robots. Perception systems are trying to solve two problems: where are we and how much can we know about the environment. The reasoning model will use the information obtained by perception system to predict the future situations. In this case, I am doing research in risk-sensitive inverse reinforcement learning to deal with the risk situation detection and avoidance, which 
+predicts the risk situation and take precautions by reasoning the current data. We are trying to implement it in the vehicle lane-change behaviors. 
 
 ## Research Experiences
 
@@ -38,7 +40,7 @@ I have several experiences in robotic SLAM, Machine Learning and Computer Vision
  
 **[Multi-robot Collaborative Navigation and Semantic SLAM](./r1.html)
  IAIR@XJTU (April. 2018 – Now)**<br/>
-**Risk-Sensitivity Inverse Reinforcement Learning. [Safe AI Lab](http://www.andrew.cmu.edu/user/dingzhao/index.html)@CMU (July. 2019 - Now)**
+**Risk-Sensitive Inverse Reinforcement Learning. [Safe AI Lab](http://www.andrew.cmu.edu/user/dingzhao/index.html)@CMU (July. 2019 - Now)**
 
 ### Previous Research & Contest Experiences
 
