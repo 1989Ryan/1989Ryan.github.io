@@ -7,10 +7,9 @@ layout: default
 This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
 
   **Zirui Zhao**<br/> 
-  Bachelor of Engineering candidate in Automation (EECS), Xi'an Jiaotong University (XJTU), will graduate in 2020 <br/>
-  Honor Engineering Program, Qian Xuesen Class, top 120 in XJTU <br/>
-  Research Intern of Institute of Artificial Intelligence and Robotics@XJTU <br/>
-  Summer Intern of The Robotics Institute@CMU <br/>
+  
+  I am currently the senior undergraduate student in Automation Engineering (EECS), Xi'an Jiaotong University(XJTU), and I am going to graduate in 2020. I am at the top elite program called "Qian Xuesen Class" with other top 120 students in XJTU. In XJTU, I work in [Cognitive Architecture Group](http://gr.xjtu.edu.cn/web/pengjuren/home), Institute of Artificial Intelligence and Robotics. And previously I was the research intern at [Safe AI Lab](http://www.andrew.cmu.edu/user/dingzhao/index.html), Carnegie Mellon University. I was the visiting student at 2018 summer workshop at School of Computing, National University of Singapore.
+
   Email: [ryan_zzr@outlook.com](mailto:ryan_zzr@outlook.com), [ziruizhao1@gmail.com](mailto:ziruizhao1@gmail.com), [ziruizha@andrew.cmu.edu](mailto:ziruizha@andrew.cmu.edu)<br/>
   Welcome to my [GitHub profile](https://github.com/1989Ryan).<br/>
   Download my [CV](https://github.com/1989Ryan/README_pictures/raw/master/images/CV_Zirui_Zhao.pdf).<br/>
