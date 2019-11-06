@@ -2,11 +2,9 @@
 layout: default
 ---
 
-# Welcome to Ryan's Homepage!
+# Welcome to Homepage of Ryan Zirui Zhao!
 
 This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
-
-  **Zirui Zhao**<br/> 
   
 ## Bio
   
