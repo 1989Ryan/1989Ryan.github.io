@@ -8,9 +8,11 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
 
   **Zirui Zhao**<br/> 
   
-  I am currently the senior undergraduate student in Automation Engineering (EECS), Xi'an Jiaotong University(XJTU), and I am going to graduate in 2020. I am at the top elite program called "Qian Xuesen Class" with other top 120 students in XJTU. In XJTU, I work in [Cognitive Architecture Group](http://gr.xjtu.edu.cn/web/pengjuren/home), Institute of Artificial Intelligence and Robotics. And previously I was the research intern at [Safe AI Lab](http://www.andrew.cmu.edu/user/dingzhao/index.html), Carnegie Mellon University. I was the visiting student at 2018 summer workshop at School of Computing, National University of Singapore.
+## Bio
+  
+  I am currently the senior undergraduate student in Automation Engineering (EECS), Xi'an Jiaotong University(XJTU), and I am going to graduate in 2020. I am at the top elite program called "Qian Xuesen Class" with other top 120 students in XJTU. In XJTU, I work as a research intern in [Cognitive Architecture Group](http://gr.xjtu.edu.cn/web/pengjuren/home), Institute of Artificial Intelligence and Robotics, supervised by Prof Pengju Ren. And previously I was the research intern at [Safe AI Lab](http://www.andrew.cmu.edu/user/dingzhao/index.html), Carnegie Mellon University, supervised by Prof. Ding Zhao. Before that, I was the visiting student at 2018 summer workshop at [School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore, supervised by Prof. Soo Yuen Jien.
 
-  Email: [ryan_zzr@outlook.com](mailto:ryan_zzr@outlook.com), [ziruizhao1@gmail.com](mailto:ziruizhao1@gmail.com), [ziruizha@andrew.cmu.edu](mailto:ziruizha@andrew.cmu.edu)<br/>
+  Email: [ryan_zzr@outlook.com](mailto:ryan_zzr@outlook.com), [ziruizhao1@gmail.com](mailto:ziruizhao1@gmail.com), [ziruizha@andrew.cmu.edu](mailto:ziruizha@andrew.cmu.edu), [r2251598go@stu.xjtu.edu.cn](mailto:r2251598go@stu.xjtu.edu.cn)<br/>
   Welcome to my [GitHub profile](https://github.com/1989Ryan).<br/>
   Download my [CV](https://github.com/1989Ryan/README_pictures/raw/master/images/CV_Zirui_Zhao.pdf).<br/>
   
@@ -18,7 +20,7 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
 
 <center><img src="https://github.com/1989Ryan/1989Ryan.github.io/blob/master/hi.jpeg?raw=true"/></center>
 
-  I am interested in the Robotics and its combination with machine learning. In particular, I am very interested in the Robotic Perception, Multi-Robot System, Robotic Planning and Reasoning.
+  I am interested in the Robotics and its combination with machine learning. In particular, I am very interested in the Robotic Perception, Multi-Robot System, Robotic Planning and Reasoning. My ultimate goal is to build a general-purpose mobile robot which is well-suited in uncertainty, dynamic, human-involved environment, with advanced human-robot-interaction performance.  
   
   I am currently focusing on the semantic SLAM and how to let robot navigate like human with semantic infomation. I was inspired by homan perception system when I was thinking about the robot navigation system. Human will never build a precise 3D map to navigate from one place to the other. The only sensor we use is our eyes. Visual information contains all the necessary information we need. So how to let a robot know the various information including the distances and semantic meaning, and use them for self-navigation, is the premary problem that I want to solve. 
   
@@ -31,21 +33,21 @@ I have several experiences in robotic SLAM, Machine Learning and Computer Vision
 
 <center><img src="https://github.com/1989Ryan/1989Ryan.github.io/blob/master/map.png?raw=true"/></center>
 
-<center>Semantic SLAM Map, yellow represents buildings, green represents vegetation, red represents roads and blue represents vehicles.</center>
+<center>Semantic SLAM Map, where yellow represents buildings, green represents vegetation, red represents roads and blue represents vehicles.</center>
 <br/>
 
 
 ### Current On-Going Research Project 
  
 **[Multi-robot Collaborative Navigation and Semantic SLAM](./r1.html)
- IAIR@XJTU (April. 2018 – Now)**<br/>
-**Risk-Sensitive Inverse Reinforcement Learning. [Safe AI Lab](http://www.andrew.cmu.edu/user/dingzhao/index.html)@CMU (July. 2019 - Now)**
+ IAIR @ XJTU (April. 2018 – Now)**<br/>
+**Risk-Sensitive Inverse Reinforcement Learning. [Safe AI Lab](http://www.andrew.cmu.edu/user/dingzhao/index.html) @ CMU (July. 2019 - Now)**
 
 ### Previous Research & Contest Experiences
 
-**[Machine learning & Computer Vision Open Experiment Program](./r2.html) IAIR@XJTU (Sept. 2017 – April. 2018)**<br/>
-**[Tele-Robotic and Deep Learning Project](./r3.html) Summer Workshop2018, School of Computing@NUS (July. 2018 - August. 2018)**<br/>
-**[2018 Global College Technical Summer Training Camp](./r4.html) AI Research@JD (August. 2018)**<br/>
+**[Machine learning & Computer Vision Open Experiment Program](./r2.html) IAIR @ XJTU (Sept. 2017 – April. 2018)**<br/>
+**[Tele-Robotic and Deep Learning Project](./r3.html) Summer Workshop2018, School of Computing @ NUS (July. 2018 - August. 2018)**<br/>
+**[2018 Global College Technical Summer Training Camp](./r4.html) AI Research @ JD (August. 2018)**<br/>
 
 ## Learning
 
