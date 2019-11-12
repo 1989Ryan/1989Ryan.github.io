@@ -12,7 +12,7 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
 
   Email: [ryan_zzr@outlook.com](mailto:ryan_zzr@outlook.com), [ziruizhao1@gmail.com](mailto:ziruizhao1@gmail.com), [ziruizha@andrew.cmu.edu](mailto:ziruizha@andrew.cmu.edu), [r2251598go@stu.xjtu.edu.cn](mailto:r2251598go@stu.xjtu.edu.cn)<br/>
   Welcome to my [GitHub profile](https://github.com/1989Ryan).<br/>
-  Download my [CV](https://github.com/1989Ryan/README_pictures/raw/master/images/CV_Zirui_Zhao.pdf).<br/>
+  Download my [CV](https://github.com/1989Ryan/README_pictures/raw/master/images/CV_zirui_Z.pdf).<br/>
   
 ## Research Orientation
 
