@@ -18,9 +18,9 @@ This is the personal GitHub page of Zirui (Ryan) Zhao.<br/>
 
 <center><img src="https://github.com/1989Ryan/1989Ryan.github.io/blob/master/hi.jpeg?raw=true"/></center>
 
-  I am interested in the Robotics and its combination with machine learning. In particular, I am very interested in the Robotic Perception, Multi-Robot System, Robotic Planning and Reasoning. My ultimate goal is to build a general-purpose mobile robot which is well-suited in uncertainty, dynamic, human-involved environment, with advanced human-robot-interaction performance.  
+  I am interested in the Robotics and its combination with machine learning. In particular, I am very interested in the Robotic Perception, Multi-Robot System, Robotic Planning and Reasoning. My ultimate goal is to build a general-purpose mobile robot which is well-suited in uncertain, dynamic, human-involved environment, with advanced human-robot-interaction performance.  
   
-  In order to reach the general-purpose mobile robot, I am looking forward to closing the loop of Perception-Cognition-Action loop of robot. The Perception means how the robot preceive data from the surrending environments. The Cognition part will assess the data perceived from multiple sensors and make decision based on the data. The Action part will efficiently control the mobility of robot to achieve its decision. 
+  In order to reach the general-purpose mobile robot, I am looking forward to closing the loop of Perception-Cognition-Action of robot. The Perception means how the robot preceive data from the surrending environments. The Cognition part will assess the data perceived from multiple sensors and make decision based on the data. The Action part will efficiently control the mobility of robot to achieve its decision. 
   
  <center><img src="https://github.com/1989Ryan/1989Ryan.github.io/blob/master/loop.png?raw=true"/></center>
 
