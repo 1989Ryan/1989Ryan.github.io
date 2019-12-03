@@ -4,10 +4,7 @@ layout: default
 
 # Zirui Zhao
 
-Xi'an Jiaotong University,<br/>
-No. 28 Xianning West Road, <br/>
-Beilin District, Xi'an, Shaanxi, <br/>
-P. R. China, 710049.
+B.Eng.(Honors Engineering Program), Faculty of Electronic and Information Engineering <br/> Xi'an Jiaotong University.
 
 Email: [ryan_zzr@outlook.com](mailto:ryan_zzr@outlook.com), [r2251598go@stu.xjtu.edu.cn](mailto:r2251598go@stu.xjtu.edu.cn).
   
