@@ -4,6 +4,7 @@ layout: default
 
 # Zirui Zhao
 
+Xi'an Jiaotong University,<br/>
 No. 28 Xianning West Road, <br/>
 Beilin District, Xi'an, Shaanxi, <br/>
 P. R. China, 710049.
@@ -12,7 +13,7 @@ Email: [ryan_zzr@outlook.com](mailto:ryan_zzr@outlook.com), [r2251598go@stu.xjtu
   
 ## Bio [[CV]](https://github.com/1989Ryan/README_pictures/raw/master/images/Zirui_Zhao_CV.pdf)
   
-  I am currently the senior undergraduate student in Automation Engineering (EECS), Xi'an Jiaotong University(XJTU), and I am going to graduate in 2020. I am at the top elite program called "Qian Xuesen Class" with other top 120 students in XJTU. In XJTU, I work as a research assistant in [Cognitive Architecture Group](http://gr.xjtu.edu.cn/web/pengjuren/home), Institute of Artificial Intelligence and Robotics, supervised by Prof Pengju Ren. And previously I was the research intern at [Safe AI Lab](http://www.andrew.cmu.edu/user/dingzhao/index.html), Carnegie Mellon University, supervised by Prof. Ding Zhao. Before that, I was the visiting student at 2018 summer workshop at [School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore, supervised by Prof. Soo Yuen Jien.
+  I am currently the senior undergraduate student in Automation Engineering (EECS), Xi'an Jiaotong University(XJTU), and I am going to graduate in 2020. I am at the top elite program called "Qian Xuesen Class" with other top 120 students in XJTU. In XJTU, I work as a research assistant in [Cognitive Architecture Group](http://gr.xjtu.edu.cn/web/pengjuren/home), Institute of Artificial Intelligence and Robotics, supervised by Prof. Pengju Ren. And previously I was the research intern at [Safe AI Lab](http://www.andrew.cmu.edu/user/dingzhao/index.html), Carnegie Mellon University, supervised by Prof. Ding Zhao. Before that, I was the visiting student at 2018 summer workshop at [School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore, supervised by Prof. Soo Yuen Jien.
   
 ## Research Orientation
 
@@ -35,7 +36,7 @@ Email: [ryan_zzr@outlook.com](mailto:ryan_zzr@outlook.com), [r2251598go@stu.xjtu
 
 ## Research Experiences
 
-I have several experiences in robotic SLAM, Machine Learning and Computer Vision. I am currently focusing on Semantic SLAM.<br/>
+I have several experiences in robot SLAM, Machine Learning and Computer Vision. I am currently focusing on Semantic SLAM.<br/>
 
 <center><img src="https://github.com/1989Ryan/1989Ryan.github.io/blob/master/map.png?raw=true"/></center>
 
