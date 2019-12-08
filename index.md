@@ -61,8 +61,14 @@ I have several experiences in robot SLAM, Machine Learning and Computer Vision. 
 
 "Talk is cheap, show me your code."
 
+**[Semantic SLAM](https://github.com/1989Ryan/Semantic_SLAM)(Maintainer)**<br/>
 **[ORB SLAM2 With Map-saving and ROS Message Data Port](https://github.com/1989Ryan/ORB_SLAM2_ROS)(Maintainer)**<br/>
 **[Digital Image and Video Processing Coursework](https://1989ryan.github.io/DIPhw/diphw.html)(Maintainer)**<br/>
 **[SE-ResNet Implementation](https://1989Ryan.github.io/SENET/senet.html)(Leader, Maintainer and Contributor)**<br/>
 **[Digital Signal Processing Course Teamwork](https://github.com/AlbertYoung0112/DigitalSpeechRecognition)(Maintainer and Contributor)**<br/>
 **[Fuzzy PID Controler](https://github.com/1989Ryan/Fuzzy-Control-Project)(Maintainer)**<br/>
+
+## Miscellaneous
+
+** Starcraft II ** Golden. <br/>
+** Badminton ** <br/>
