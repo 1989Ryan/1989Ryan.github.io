@@ -70,5 +70,5 @@ I have several experiences in robot SLAM, Machine Learning and Computer Vision. 
 
 ## Miscellaneous
 
-** Starcraft II ** Golden. <br/>
-** Badminton ** <br/>
+**Starcraft II** Golden. <br/>
+**Badminton** <br/>
