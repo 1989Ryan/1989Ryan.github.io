@@ -35,7 +35,7 @@ Email: [ryan_zzr@outlook.com](mailto:ryan_zzr@outlook.com), [r2251598go@stu.xjtu
 
 I have several experiences in robot SLAM, Machine Learning and Computer Vision. I am currently focusing on Semantic SLAM.<br/>
 
-<center><img src="https://github.com/1989Ryan/1989Ryan.github.io/blob/master/map.png?raw=true"/></center>
+<center><img src="https://github.com/1989Ryan/Semantic_SLAM/blob/master/real-time.gif?raw=true"/></center>
 
 <center>Semantic SLAM Map, where yellow represents buildings, green represents vegetation, red represents roads and blue represents vehicles.</center>
 <br/>
