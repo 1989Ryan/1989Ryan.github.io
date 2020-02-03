@@ -49,7 +49,7 @@ I have several experiences in robot SLAM, Machine Learning and Computer Vision. 
 This work combines the semantic labels with pointclouds generated from ORB-SLAM by using bayesian update rules. Besides, the landmarks in the real world is attached in the map, associated with the pointclouds by using fuzzy mathematics.
 [[Code]](https://github.com/1989Ryan/Semantic_SLAM)[[Paper]](https://arxiv.org/abs/2001.01028)
 
-<img src="https://github.com/1989Ryan/README_pictures/blob/master/active-rsirl.gif?raw=true"/>
+<img src="https://github.com/1989Ryan/README_pictures/blob/master/active_rsirl.gif?raw=true"/>
 **Active learning for Risk-sensitive Inverse Reinforcement Learning**<br/>
 Rui Chen, Wenshuo Wang, **Zirui Zhao**, Ding Zhao.<br/>
 Risk-sensitive inverse reinforcement learning provides an general model to capture how human assess the distribution of a stochastic outcome when the true distribution is unknown (ambiguous). This work enables an RS-IRL learner to actively query expert demonstrations for faster risk envelope approximation.
