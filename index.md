@@ -33,7 +33,7 @@ This work combines the semantic labels with pointclouds generated from ORB-SLAM 
 <img src="https://github.com/1989Ryan/README_pictures/blob/master/active_rsirl.gif?raw=true" height="75%" width="75%"/><br/>
 **Active learning for Risk-sensitive Inverse Reinforcement Learning**<br/>
 Rui Chen, Wenshuo Wang, **Zirui Zhao**, Ding Zhao. <br/>
-Risk-sensitive inverse reinforcement learning provides an general model to capture how human assess the distribution of a stochastic outcome when the true distribution is unknown (ambiguous). This work enables an RS-IRL learner to actively query expert demonstrations for faster risk envelope approximation.</br>
+Risk-sensitive inverse reinforcement learning provides an general model to capture how human assess the distribution of a stochastic outcome when the true distribution is unknown (ambiguous). This work enables an RS-IRL learner to actively query expert demonstrations for faster risk envelope approximation.<br/>
 [[Code]](https://github.com/ruichen-v/active_learning_for_rsirl) [[Paper]](https://arxiv.org/abs/1909.07843)
 
 
