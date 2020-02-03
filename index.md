@@ -43,14 +43,14 @@ I have several experiences in robot SLAM, Machine Learning and Computer Vision. 
 
 ### Current On-Going Research Project 
  
-<img src="https://github.com/1989Ryan/Semantic_SLAM/blob/master/real-time.gif?raw=true"/><br/>
+<img src="https://github.com/1989Ryan/Semantic_SLAM/blob/master/real-time.gif?raw=true" height="75%" width="75%"/><br/>
 **Visual Semantic SLAM with Landmarks for Large Scale Outdoor Environment** <br/>
 **Zirui Zhao**, Yijun Mao, Yan Ding, Pengju Ren, Nanning Zheng.<br/>
 This work combines the semantic labels with pointclouds generated from ORB-SLAM by using bayesian update rules. Besides, the landmarks in the real world is attached in the map, associated with the pointclouds by using fuzzy mathematics.
 [[Code]](https://github.com/1989Ryan/Semantic_SLAM)[[Paper]](https://arxiv.org/abs/2001.01028)
 
-<img src="https://github.com/1989Ryan/README_pictures/blob/master/active_rsirl.gif?raw=true"/><br/>
-**Active learning for Risk-sensitive Inverse Reinforcement Learning** <br/>
+<img src="https://github.com/1989Ryan/README_pictures/blob/master/active_rsirl.gif?raw=true" height="75%" width="75%"/><br/>
+<font size = 18>**Active learning for Risk-sensitive Inverse Reinforcement Learning** </font><br/>
 Rui Chen, Wenshuo Wang, **Zirui Zhao**, Ding Zhao. <br/>
 Risk-sensitive inverse reinforcement learning provides an general model to capture how human assess the distribution of a stochastic outcome when the true distribution is unknown (ambiguous). This work enables an RS-IRL learner to actively query expert demonstrations for faster risk envelope approximation.
 [[Code]](https://github.com/ruichen-v/active_learning_for_rsirl) [[Paper]](https://arxiv.org/abs/1909.07843)
