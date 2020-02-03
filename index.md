@@ -16,7 +16,7 @@ Email: ryan_zzr(at)outlook(dot)com, ziruizhao1(at)gmail(dot)com, r2251598go(at)s
 
 <center><img src="https://github.com/1989Ryan/1989Ryan.github.io/blob/master/hi.jpeg?raw=true"/></center>
 
-  I am interested in the Robotics and its combination with machine learning. In particular, I am very interested in the Robotic Perception, Multi-Robot System, Robotic Planning and Reasoning. My ultimate goal is to build a general-purpose mobile robot which is well-suited in uncertain, dynamic, human-involved environment, with advanced human-robot-interaction performance.  
+  I am highly interested in the robotics-oriented learning problems, as well as state estimation of mobile robot by using Markov localization, bayesian method, and vision. My ultimate goal is to build a general-purpose mobile robot which is well-suited in uncertain, dynamic, human-involved environment, with advanced human-robot-interaction performance.  
   
   In order to reach the general-purpose mobile robot, I am looking forward to closing the loop of Perception-Cognition-Action of robot. The Perception means how the robot preceive data from the surrending environments. The Cognition part will assess the data perceived from multiple sensors and make decision based on the data. The Action part will efficiently control the mobility of robot to achieve its decision. 
   
@@ -29,11 +29,11 @@ Email: ryan_zzr(at)outlook(dot)com, ziruizhao1(at)gmail(dot)com, r2251598go(at)s
   
   As for the cognition part, I am also thinking how to combine the perception systems with reasoning (planning) systems to enhance the overall ability of robots. Perception systems are trying to solve two problems: where are we and how much can we know about the environment. The reasoning model will use the information obtained by perception system to predict the future situations. In this case, I am doing research in risk-sensitive inverse reinforcement learning to deal with the risk situation detection and avoidance, which predicts the risk situation and take precautions by reasoning the current data. We are trying to implement it in the vehicle lane-change behaviors. 
   
-  As for the action part, I have good academic performance in control theory and robot control. I have participated in the summer workshop of NUS, and I have built an autonomous robot which powered by control algorithms and computer vision. 
+  As for the manipulation part, I have good academic performance in control theory and robot control. I have participated in the summer workshop of NUS, and I have built an autonomous robot which powered by control algorithms and computer vision. 
 
 ## Research Experiences
 
-I have several experiences in robot SLAM, Machine Learning and Computer Vision. I am currently focusing on Semantic SLAM.<br/>
+I have several experiences in robot SLAM, Machine Learning and Computer Vision. I am currently focusing on state estimation and planning based on MDPs.<br/>
 
 <center><img src="https://github.com/1989Ryan/Semantic_SLAM/blob/master/real-time.gif?raw=true"/></center>
 
@@ -43,9 +43,19 @@ I have several experiences in robot SLAM, Machine Learning and Computer Vision. 
 
 ### Current On-Going Research Project 
  
-**[Multi-robot Collaborative Navigation and Semantic SLAM](./r1.html)
- IAIR @ XJTU (April. 2018 – Now)**<br/>
-**Risk-Sensitive Inverse Reinforcement Learning. [Safe AI Lab](http://www.andrew.cmu.edu/user/dingzhao/index.html) @ CMU (July. 2019 - Now)**
+<img src="https://github.com/1989Ryan/Semantic_SLAM/blob/master/real-time.gif?raw=true"/>
+**Visual Semantic SLAM with Landmarks for Large Scale Outdoor Environment**<br/>
+**Zirui Zhao**, Yijun Mao, Yan Ding, Pengju Ren, Nanning Zheng.<br/>
+This work combines the semantic labels with pointclouds generated from ORB-SLAM by using bayesian update rules. Besides, the landmarks in the real world is attached in the map, associated with the pointclouds by using fuzzy mathematics.
+[[Code]](https://github.com/1989Ryan/Semantic_SLAM)[[Paper]](https://arxiv.org/abs/2001.01028)
+
+<img src="https://github.com/1989Ryan/README_pictures/blob/master/active-rsirl.gif?raw=true"/>
+**Active learning for Risk-sensitive Inverse Reinforcement Learning**<br/>
+Rui Chen, Wenshuo Wang, **Zirui Zhao**, Ding Zhao.<br/>
+Risk-sensitive inverse reinforcement learning provides an general model to capture how human assess the distribution of a stochastic outcome when the true distribution is unknown (ambiguous). This work enables an RS-IRL learner to actively query expert demonstrations for faster risk envelope approximation.
+[[Code]](https://github.com/ruichen-v/active_learning_for_rsirl)[[Paper]](https://arxiv.org/abs/1909.07843)
+
+
 
 ### Previous Research & Contest Experiences
 
