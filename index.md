@@ -22,7 +22,7 @@ Email: ryan_zzr(at)outlook(dot)com, ziruizhao1(at)gmail(dot)com, r2251598go(at)s
 
 I have several experiences in robot SLAM, Machine Learning and Computer Vision. I am currently focusing on state estimation and planning based on MDPs.
 
-### Current On-Going Research Project 
+### Research 
  
 <img src="https://github.com/1989Ryan/Semantic_SLAM/blob/master/real-time.gif?raw=true" height="75%" width="75%"/><br/>
 **Visual Semantic SLAM with Landmarks for Large Scale Outdoor Environment** <br/>
@@ -38,15 +38,11 @@ Risk-sensitive inverse reinforcement learning provides an general model to captu
 
 
 
-### Previous Research & Contest Experiences
+### Projects
 
 **[Machine learning & Computer Vision Open Experiment Program](./r2.html) IAIR @ XJTU (Sept. 2017 – April. 2018)**<br/>
 **[Tele-Robotic and Deep Learning Project](./r3.html) Summer Workshop2018, School of Computing @ NUS (July. 2018 - August. 2018)**<br/>
 **[2018 Global College Technical Summer Training Camp](./r4.html) AI Research @ JD (August. 2018)**<br/>
-
-## Learning
-
-**[Reinforcement Learning](https://www.ryanzhao.org/Reinforcement_Learning/RL.html)**
 
 ## Opensource Projects and Homeworks
 
