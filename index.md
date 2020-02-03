@@ -16,30 +16,11 @@ Email: ryan_zzr(at)outlook(dot)com, ziruizhao1(at)gmail(dot)com, r2251598go(at)s
 
 <center><img src="https://github.com/1989Ryan/1989Ryan.github.io/blob/master/hi.jpeg?raw=true"/></center>
 
-  I am highly interested in the robotics-oriented learning problems, as well as state estimation of mobile robot by using Markov localization, bayesian method, and vision. My ultimate goal is to build a general-purpose mobile robot which is well-suited in uncertain, dynamic, human-involved environment, with advanced human-robot-interaction performance.  
-  
-  In order to reach the general-purpose mobile robot, I am looking forward to closing the loop of Perception-Cognition-Action of robot. The Perception means how the robot preceive data from the surrending environments. The Cognition part will assess the data perceived from multiple sensors and make decision based on the data. The Action part will efficiently control the mobility of robot to achieve its decision. 
-  
- <center><img src="https://github.com/1989Ryan/1989Ryan.github.io/blob/master/loop.png?raw=true"/></center>
-
-<center>Robot Perception-Cognition-Action loop.</center>
-<br/>
-  
-  As for the robot perception part, I am currently focusing on the semantic SLAM and how to let robot navigate like human with semantic infomation. I was inspired by homan perception system when I was thinking about the robot navigation system. Human will never build a precise 3D map to navigate from one place to the other. The only sensor we use is our eyes. Visual information contains all the necessary information we need. So how to let a robot know the various information including the distances and semantic meaning, and use them for self-navigation, is the premary problem that I want to solve. 
-  
-  As for the cognition part, I am also thinking how to combine the perception systems with reasoning (planning) systems to enhance the overall ability of robots. Perception systems are trying to solve two problems: where are we and how much can we know about the environment. The reasoning model will use the information obtained by perception system to predict the future situations. In this case, I am doing research in risk-sensitive inverse reinforcement learning to deal with the risk situation detection and avoidance, which predicts the risk situation and take precautions by reasoning the current data. We are trying to implement it in the vehicle lane-change behaviors. 
-  
-  As for the manipulation part, I have good academic performance in control theory and robot control. I have participated in the summer workshop of NUS, and I have built an autonomous robot which powered by control algorithms and computer vision. 
+  I am highly interested in the robotics-oriented learning problems, robot reasoning with uncertainty, as well as state estimation of mobile robot by using Markov localization, bayesian method, and vision. My ultimate goal is to build a general-purpose mobile robot which is well-suited in uncertain, dynamic, human-involved environment, with advanced human-robot-interaction performance.  
 
 ## Research Experiences
 
-I have several experiences in robot SLAM, Machine Learning and Computer Vision. I am currently focusing on state estimation and planning based on MDPs.<br/>
-
-<center><img src="https://github.com/1989Ryan/Semantic_SLAM/blob/master/real-time.gif?raw=true"/></center>
-
-<center>Semantic SLAM Map, where yellow represents buildings, green represents vegetation, red represents roads and blue represents vehicles.</center>
-<br/>
-
+I have several experiences in robot SLAM, Machine Learning and Computer Vision. I am currently focusing on state estimation and planning based on MDPs.
 
 ### Current On-Going Research Project 
  
