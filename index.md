@@ -16,7 +16,7 @@ Email: ryan_zzr(at)outlook(dot)com, ziruizhao1(at)gmail(dot)com, r2251598go(at)s
 
 <center><img src="https://github.com/1989Ryan/1989Ryan.github.io/blob/master/hi.jpeg?raw=true"/></center>
 
-  I am highly interested in the robotics-oriented learning problems, robot reasoning with uncertainty, as well as state estimation of mobile robot by using Markov localization, bayesian method, and vision. My ultimate goal is to build a general-purpose mobile robot which is well-suited in uncertain, dynamic, human-involved environment, with advanced human-robot-interaction performance.  
+  I am interested in the robotics-oriented learning problems, robot reasoning with uncertainty, as well as state estimation of mobile robot by using Markov localization, bayesian method, and vision. My ultimate goal is to build a general-purpose mobile robot which is well-suited in uncertain, dynamic, human-involved environment, with advanced human-robot-interaction performance.  
 
 ## Research Experiences
 
