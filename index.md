@@ -6,7 +6,7 @@ layout: default
 
 B.Eng.(Honors Engineering Program), Faculty of Electronic and Information Engineering <br/> Xi'an Jiaotong University.
 
-Email: ryan_zzr [at] outlook [dot] com, ziruizhao1 [at] gmail [dot] com, r2251598go [at] stu [dot] xjtu [dot] edu [dot] cn.
+Email: ryan_zzr [at] outlook [dot] com, ziruizhao1 [at] gmail [dot] com.
   
 ## Bio [[CV]](https://github.com/1989Ryan/README_pictures/raw/master/images/Zirui_Zhao_CV.pdf)
   
