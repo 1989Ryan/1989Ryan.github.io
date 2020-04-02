@@ -2,8 +2,10 @@
 layout: default
 ---
 
-<span id = "aboutme">About me</span>
-### [[About me]](#about-me)
+
+### [[About me]](#about-me) [[Research Interests]](#research-interests) [[Research Experiences]](#research-experience)
+
+
 ## About me
   
   I am currently the senior undergraduate student in Automation Engineering (EECS), Xi'an Jiaotong University(XJTU), and I am going to graduate in 2020. I am going to be a PhD student in computer science at the [School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore, under the supervision of Prof. [David Hsu](https://www.comp.nus.edu.sg/~dyhsu/). In XJTU, I work as a research assistant in [Cognitive Architecture Group](http://gr.xjtu.edu.cn/web/pengjuren/home), Institute of Artificial Intelligence and Robotics, supervised by Prof. Pengju Ren. And previously I was the research intern at [Safe AI Lab](http://www.andrew.cmu.edu/user/dingzhao/index.html), Carnegie Mellon University, and I worked with Prof. Ding Zhao. Before that, I was the visiting student at 2018 summer workshop at [School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore, guided by Prof. Soo Yuen Jien.
