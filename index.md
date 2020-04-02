@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-#### [[About me]](#about-me) [[Research Interests]](#research-interests) [[Research Experiences]](#research-experiences)
+#### [[About me]](#about-me) [[Research Interests]](#research-interests) [[Research Experiences]](#research-experiences) [[Open Source]](#opensource-projects)
 
 
 ## About me
@@ -42,7 +42,7 @@ Risk-sensitive inverse reinforcement learning provides an general model to captu
 **[Tele-Robotic and Deep Learning Project](./r3.html) Summer Workshop2018, School of Computing @ NUS (July. 2018 - August. 2018)**<br/>
 **[2018 Global College Technical Summer Training Camp](./r4.html) AI Research @ JD (August. 2018)**<br/>
 
-## Opensource Projects and Homeworks
+## Opensource Projects
 
 "Talk is cheap, show me your code."
 
