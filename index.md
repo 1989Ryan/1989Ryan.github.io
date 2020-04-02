@@ -2,14 +2,7 @@
 layout: default
 ---
 
-# Zirui Zhao
-
-Senior undergrads in Automation (Honors Engineering Program)<br/>
-Faculty of Electronic and Information Engineering <br/> Honors Qian Xue Sen College <br/> Xi'an Jiaotong University.
-
-Email: ryan_zzr [at] outlook.com, ziruizhao1 [at] gmail.com.
-
-**[[GitHub]](https://github.com/1989Ryan) [[Zhihu]](https://www.zhihu.com/people/raby-36) [[CV]](https://github.com/1989Ryan/README_pictures/raw/master/images/Zirui_Zhao_CV.pdf)**
+### [[About me]](https://github.com/1989Ryan/1989Ryan.github.io/blob/master/index.md#about-me) [[Research Interests]](https://github.com/1989Ryan/1989Ryan.github.io/blob/master/index.md#research-intererst) [[Research Experience]](https://github.com/1989Ryan/1989Ryan.github.io/blob/master/index.md#research-experience)
   
 ## About me
   
