@@ -1,6 +1,6 @@
-title: Ryan Zirui Zhao
+title: Home Page
 logo: ryan.jpg
-description: Zirui Zhao.<br/> XJTU|NUS
-show_downloads: True
+description: Hi, I program autonomous robots.
+show_downloads: False
 google_analytics:
 theme: jekyll-theme-minimal
