@@ -4,11 +4,14 @@ layout: default
 
 # Zirui Zhao
 
-B.Eng.(Honors Engineering Program), Faculty of Electronic and Information Engineering <br/> Xi'an Jiaotong University.
+Senior undergrads in Automation (Honors Engineering Program)<br/>
+Faculty of Electronic and Information Engineering <br/> Honors Qian Xue Sen College <br/> Xi'an Jiaotong University.
 
-Email: ryan_zzr [at] outlook [dot] com, ziruizhao1 [at] gmail [dot] com.
+Email: ryan_zzr [at] outlook.com, ziruizhao1 [at] gmail.com.
+
+[[GitHub]](https://github.com/1989Ryan) [[Zhihu]](https://www.zhihu.com/people/raby-36) [[CV]](https://github.com/1989Ryan/README_pictures/raw/master/images/Zirui_Zhao_CV.pdf)
   
-## About me [[CV]](https://github.com/1989Ryan/README_pictures/raw/master/images/Zirui_Zhao_CV.pdf)
+## About me
   
   I am currently the senior undergraduate student in Automation Engineering (EECS), Xi'an Jiaotong University(XJTU), and I am going to graduate in 2020. I am going to be a PhD student in computer science at the [School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore, under the supervision of Prof. [David Hsu](https://www.comp.nus.edu.sg/~dyhsu/). In XJTU, I work as a research assistant in [Cognitive Architecture Group](http://gr.xjtu.edu.cn/web/pengjuren/home), Institute of Artificial Intelligence and Robotics, supervised by Prof. Pengju Ren. And previously I was the research intern at [Safe AI Lab](http://www.andrew.cmu.edu/user/dingzhao/index.html), Carnegie Mellon University, and I worked with Prof. Ding Zhao. Before that, I was the visiting student at 2018 summer workshop at [School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore, guided by Prof. Soo Yuen Jien.
   
@@ -28,7 +31,7 @@ I have several experiences in robot SLAM, Machine Learning and Computer Vision. 
 **Visual Semantic SLAM with Landmarks for Large Scale Outdoor Environment** <br/>
 **Zirui Zhao**, Yijun Mao, Yan Ding, Pengju Ren, Nanning Zheng.<br/>
 This work combines the semantic labels with pointclouds generated from ORB-SLAM by using bayesian update rules. Besides, the landmarks in the real world is attached in the map, associated with the pointclouds by using fuzzy mathematics.<br/>
-[[Code]](https://github.com/1989Ryan/Semantic_SLAM)[[Paper]](https://arxiv.org/abs/2001.01028)
+[[Code]](https://github.com/1989Ryan/Semantic_SLAM) [[Paper]](https://arxiv.org/abs/2001.01028)
 
 <img src="https://github.com/1989Ryan/README_pictures/blob/master/active_rsirl.gif?raw=true" height="75%" width="75%"/><br/>
 **Active learning for Risk-sensitive Inverse Reinforcement Learning**<br/>
