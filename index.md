@@ -9,7 +9,7 @@ Faculty of Electronic and Information Engineering <br/> Honors Qian Xue Sen Coll
 
 Email: ryan_zzr [at] outlook.com, ziruizhao1 [at] gmail.com.
 
-[[GitHub]](https://github.com/1989Ryan) [[Zhihu]](https://www.zhihu.com/people/raby-36) [[CV]](https://github.com/1989Ryan/README_pictures/raw/master/images/Zirui_Zhao_CV.pdf)
+**[[GitHub]](https://github.com/1989Ryan) [[Zhihu]](https://www.zhihu.com/people/raby-36) [[CV]](https://github.com/1989Ryan/README_pictures/raw/master/images/Zirui_Zhao_CV.pdf)**
   
 ## About me
   
