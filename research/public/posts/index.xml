@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Aug 2022 21:30:04 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Differentiable Parsing and Visual Grounding of Verbal Instructions for Object Placement</title>
-      <link>http://example.org/paragon/</link>
-      <pubDate>Tue, 13 Sep 2022 20:45:25 +0800</pubDate>
-      
-      <guid>http://example.org/paragon/</guid>
-      <description>Zirui Zhao, Wee Sun Lee, David Hsu
-School of Computing, National University of Singapore
-[Appendix] [Dataset (comming soon)]
-Abstract Grounding spatial relations in natural language for object placing could have ambiguity and compositionality issues. To address the issues, we introduce ParaGon, a PARsing And visual GrOuNding framework for language-conditioned object placement. It parses language instructions into relations between objects and grounds those objects in visual scenes. A particle-based GNN then conducts relational reasoning between grounded objects for placement generation.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 26 Aug 2022 22:28:10 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Hans</title>
       <link>http://example.org/posts/test-hans/</link>
