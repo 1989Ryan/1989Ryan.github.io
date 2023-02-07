@@ -6,12 +6,13 @@
 <style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
 .mac-os-11 { --title-bar-height: 28px; }
 html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
-body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.42857143; overflow-x: hidden; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; tab-size: 4; background-position: inherit; background-repeat: inherit; }
+h1, h2, h3, h4, h5 { white-space: pre-wrap; }
+body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.428571; overflow-x: hidden; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; tab-size: 4; background-position: inherit; background-repeat: inherit; }
 iframe { margin: auto; }
 a.url { word-break: break-all; }
 a:active, a:hover { outline: 0px; }
 .in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
-#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; word-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
 #write.first-line-indent p { text-indent: 2em; }
 #write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
 #write.first-line-indent li { margin-left: 2em; }
@@ -54,7 +55,7 @@ thead { display: table-header-group; }
 table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
 table.md-table td { min-width: 32px; }
 .CodeMirror-gutters { border-right-width: 0px; background-color: inherit; }
-.CodeMirror-linenumber { }
+.CodeMirror-linenumber { -webkit-user-select: none; }
 .CodeMirror { text-align: left; }
 .CodeMirror-placeholder { opacity: 0.3; }
 .CodeMirror pre { padding: 0px 4px; }
@@ -86,12 +87,14 @@ blockquote > :first-child, li > :first-child { margin-top: 0px; }
 #write .footnote-line { white-space: pre-wrap; }
 @media print {
   body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
-  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; padding-bottom: 0px !important; }
+  #write { margin-top: 0px; border-color: transparent !important; padding-top: 0px !important; padding-bottom: 0px !important; }
   .typora-export * { print-color-adjust: exact; }
   .typora-export #write { break-after: avoid; }
   .typora-export #write::after { height: 0px; }
   .is-mac table { break-inside: avoid; }
+  #write > p:nth-child(1) { margin-top: 0px; }
   .typora-export-show-outline .typora-export-sidebar { display: none; }
+  figure { overflow-x: visible; }
 }
 .footnote-line { margin-top: 0.714em; font-size: 0.7em; }
 a img, img a { cursor: pointer; }
@@ -168,10 +171,10 @@ mark .md-meta { color: rgb(0, 0, 0); }
 @media screen and (max-width: 800px) {
   .typora-export-sidebar { display: none; }
 }
-.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; }
+.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; overflow-wrap: anywhere; }
 .outline-content ul { margin-top: 0px; margin-bottom: 0px; }
 .outline-content strong { font-weight: 400; }
-.outline-expander { width: 1rem; height: 1.428571429rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
+.outline-expander { width: 1rem; height: 1.428571rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
 .outline-expander::before { content: ""; position: relative; font-family: Ionicons; display: inline-block; font-size: 8px; vertical-align: middle; }
 .outline-item { padding-top: 3px; padding-bottom: 3px; cursor: pointer; }
 .outline-expander:hover::before { content: ""; }
@@ -199,6 +202,7 @@ mark .md-meta { color: rgb(0, 0, 0); }
 .typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
 .typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
 .md-inline-math-container mjx-container { zoom: 0.95; }
+mjx-container { break-inside: avoid; }
 
 
 :root {
@@ -248,8 +252,7 @@ body {
 }
 
 code {
-    color: #ec5757;
-    background-color: #eeedeb;
+    background-color: #f7f6f3;
     padding: 0 2px 0 2px;
 }
 
@@ -417,11 +420,23 @@ blockquote {
     margin-right: 0px;
     border-left: 4px solid var(--text-color);
     padding: 10px 14px 7px 22px;
+    /* change the quote highlight */
+    background-color: #f7f7f7;
 }
 
 blockquote blockquote {
     padding-right: 0;
 }
+
+/* Alternating color rows in table*/
+table tr:nth-child(2n) {
+    background-color: #f7f7f7;
+  }
+
+table tr:nth-child(2n + 1) {
+    background-color: #fdfdfd;
+}
+/* Alternating color rows in table*/
 
 table {
     padding: 0;
@@ -909,7 +924,7 @@ megamenu-back-btn {
 </head>
 <body class='typora-export'><div class='typora-export-content'>
 <div id='write'  class=''><h1 id='centerdifferentiable-parsing-and-visual-grounding-of-verbal-instructions-for-object-placementcenter'><center><span>Differentiable Parsing and Visual Grounding of Verbal Instructions for Object Placement</span></center></h1><center>
-  Zirui Zhao, Wee Sun Lee, David Hsu
-</center><center>School of Computing, National University of Singapore</center><center>[<a href="https://arxiv.org/abs/2210.00215">arXiv</a>] [<a href="./paragon/appendix.pdf">Appendix</a>] [Dataset (soon)] [Code (Soon)]</center><h2 id='abstract'><span><center>Abstract</center></span></h2><p><span>Grounding spatial relations in natural language for object placing could have ambiguity and compositionality issues. To address the issues, we introduce ParaGon, a PARsing And visual GrOuNding framework for language-conditioned object placement. It parses language instructions into relations between objects and grounds those objects in visual scenes. A particle-based GNN then conducts relational reasoning between grounded objects for placement generation. ParaGon encodes all of those procedures into neural networks for end-to-end training, which avoids annotating parsing and object reference grounding labels. Our approach inherently integrates parsing-based methods into a probabilistic, data-driven framework. It is data-efficient and generalizable for learning compositional instructions, robust to noisy language inputs, and adapts to the uncertainty of ambiguous instructions.</span></p></div></div>
+  Zirui Zhao, Wee Sun Lee, David Hsu<br>
+  School of Computing, National University of Singapore</center><center>[<a href='https://arxiv.org/pdf/2210.00215.pdf'>arXiv</a>][<a href='./appendix.pdf'>Appendix</a>] [<a href='https://github.com/1989Ryan/paragon'>code</a>]</center><h2 id='abstract'><span>Abstract</span></h2><p><span>Grounding spatial relations in natural language for object placing could have ambiguity and compositionality issues. To address the issues, we introduce </span><em><span>PARsing And visual GrOuNding</span></em><span> (ParaGon) framework for language-conditioned object placement. It parses language instructions into object-centric relations and grounds the objects in visual scenes. A particle-based Graph Neural Network then reasons the relations of grounded objects to generate placement. ParaGon encodes all of those procedures into neural networks for end-to-end training. Our approach inherently integrates parsing-based methods into a probabilistic, data-driven framework. It is data-efficient and generalizable for learning compositional instructions, and adapts to noisy, ambiguous language inputs. </span></p></div></div>
 </body>
 </html>
