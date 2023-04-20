@@ -1,0 +1,3 @@
+[submodule "paragon"]
+	path = paragon
+	url = https://github.com/1989Ryan/paragon_web.git
