@@ -99,9 +99,13 @@ papertitle {
   font-size: 14px;
   font-weight: 700
 }
+name_ch {
+  font-family: 'Kaiti', 'Kaiti SC', Verdana, Helvetica, sans-serif;
+  font-size: 32px;
+}
 
 name {
-  font-family: 'Arial', 'Kaiti', 'Kaiti SC', Verdana, Helvetica, sans-serif;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 32px;
 }
 
